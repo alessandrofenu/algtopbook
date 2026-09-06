@@ -1,0 +1,6218 @@
+[
+ [
+  "ch:basepoints",
+  {
+   "kind": "chapter",
+   "num": "1",
+   "file": "c01.html",
+   "anchor": "top",
+   "ord": 2,
+   "chap": "1",
+   "n": 1
+  }
+ ],
+ [
+  "def:beta",
+  {
+   "kind": "definition",
+   "num": "1.1",
+   "file": "c01.html",
+   "anchor": "definition-1-1",
+   "ord": 4,
+   "chap": "1",
+   "n": 1
+  }
+ ],
+ [
+  "prop:beta",
+  {
+   "kind": "proposition",
+   "num": "1.2",
+   "file": "c01.html",
+   "anchor": "proposition-1-2",
+   "ord": 5,
+   "chap": "1",
+   "n": 2
+  }
+ ],
+ [
+  "exr:beta-class",
+  {
+   "kind": "exercise",
+   "num": "1.3",
+   "file": "c01.html",
+   "anchor": "exercise-1-3",
+   "ord": 6,
+   "chap": "1",
+   "n": 3
+  }
+ ],
+ [
+  "lem:beta-conj",
+  {
+   "kind": "lemma",
+   "num": "1.4",
+   "file": "c01.html",
+   "anchor": "lemma-1-4",
+   "ord": 7,
+   "chap": "1",
+   "n": 4
+  }
+ ],
+ [
+  "ex:figure-eight-beta",
+  {
+   "kind": "example",
+   "num": "1.5",
+   "file": "c01.html",
+   "anchor": "example-1-5",
+   "ord": 8,
+   "chap": "1",
+   "n": 5
+  }
+ ],
+ [
+  "cor:canonical",
+  {
+   "kind": "corollary",
+   "num": "1.6",
+   "file": "c01.html",
+   "anchor": "corollary-1-6",
+   "ord": 9,
+   "chap": "1",
+   "n": 6
+  }
+ ],
+ [
+  "exr:naturality",
+  {
+   "kind": "exercise",
+   "num": "1.8",
+   "file": "c01.html",
+   "anchor": "exercise-1-8",
+   "ord": 11,
+   "chap": "1",
+   "n": 8
+  }
+ ],
+ [
+  "lem:conjugate-free",
+  {
+   "kind": "lemma",
+   "num": "1.10",
+   "file": "c01.html",
+   "anchor": "lemma-1-10",
+   "ord": 14,
+   "chap": "1",
+   "n": 10
+  }
+ ],
+ [
+  "lem:track",
+  {
+   "kind": "lemma",
+   "num": "1.11",
+   "file": "c01.html",
+   "anchor": "lemma-1-11",
+   "ord": 15,
+   "chap": "1",
+   "n": 11
+  }
+ ],
+ [
+  "ex:rotation",
+  {
+   "kind": "example",
+   "num": "1.13",
+   "file": "c01.html",
+   "anchor": "example-1-13",
+   "ord": 17,
+   "chap": "1",
+   "n": 13
+  }
+ ],
+ [
+  "prop:he-iso",
+  {
+   "kind": "proposition",
+   "num": "1.14",
+   "file": "c01.html",
+   "anchor": "proposition-1-14",
+   "ord": 18,
+   "chap": "1",
+   "n": 14
+  }
+ ],
+ [
+  "exr:free-null",
+  {
+   "kind": "exercise",
+   "num": "1.15",
+   "file": "c01.html",
+   "anchor": "exercise-1-15",
+   "ord": 19,
+   "chap": "1",
+   "n": 15
+  }
+ ],
+ [
+  "exr:abelian-free",
+  {
+   "kind": "exercise",
+   "num": "1.16",
+   "file": "c01.html",
+   "anchor": "exercise-1-16",
+   "ord": 20,
+   "chap": "1",
+   "n": 16
+  }
+ ],
+ [
+  "exr:not-based",
+  {
+   "kind": "exercise",
+   "num": "1.17",
+   "file": "c01.html",
+   "anchor": "exercise-1-17",
+   "ord": 21,
+   "chap": "1",
+   "n": 17
+  }
+ ],
+ [
+  "def:hspace",
+  {
+   "kind": "definition",
+   "num": "1.18",
+   "file": "c01.html",
+   "anchor": "definition-1-18",
+   "ord": 23,
+   "chap": "1",
+   "n": 18
+  }
+ ],
+ [
+  "prop:eckmann-hilton",
+  {
+   "kind": "proposition",
+   "num": "1.19",
+   "file": "c01.html",
+   "anchor": "proposition-1-19",
+   "ord": 24,
+   "chap": "1",
+   "n": 19
+  }
+ ],
+ [
+  "exr:hspace-homotopy-unit",
+  {
+   "kind": "exercise",
+   "num": "1.21",
+   "file": "c01.html",
+   "anchor": "exercise-1-21",
+   "ord": 26,
+   "chap": "1",
+   "n": 21
+  }
+ ],
+ [
+  "rem:next-step",
+  {
+   "kind": "remark",
+   "num": "1.23",
+   "file": "c01.html",
+   "anchor": "remark-1-23",
+   "ord": 28,
+   "chap": "1",
+   "n": 23
+  }
+ ],
+ [
+  "ch:presentations",
+  {
+   "kind": "chapter",
+   "num": "2",
+   "file": "c02.html",
+   "anchor": "top",
+   "ord": 30,
+   "chap": "2",
+   "n": 2
+  }
+ ],
+ [
+  "prop:one-zero-cell",
+  {
+   "kind": "proposition",
+   "num": "2.1",
+   "file": "c02.html",
+   "anchor": "proposition-2-1",
+   "ord": 32,
+   "chap": "2",
+   "n": 1
+  }
+ ],
+ [
+  "prop:cw-presentation",
+  {
+   "kind": "proposition",
+   "num": "2.2",
+   "file": "c02.html",
+   "anchor": "proposition-2-2",
+   "ord": 33,
+   "chap": "2",
+   "n": 2
+  }
+ ],
+ [
+  "rem:attaching-conjugacy",
+  {
+   "kind": "remark",
+   "num": "2.3",
+   "file": "c02.html",
+   "anchor": "remark-2-3",
+   "ord": 34,
+   "chap": "2",
+   "n": 3
+  }
+ ],
+ [
+  "ex:surface-presentation",
+  {
+   "kind": "example",
+   "num": "2.4",
+   "file": "c02.html",
+   "anchor": "example-2-4",
+   "ord": 35,
+   "chap": "2",
+   "n": 4
+  }
+ ],
+ [
+  "def:mapping-torus",
+  {
+   "kind": "definition",
+   "num": "2.5",
+   "file": "c02.html",
+   "anchor": "definition-2-5",
+   "ord": 37,
+   "chap": "2",
+   "n": 5
+  }
+ ],
+ [
+  "prop:mapping-torus",
+  {
+   "kind": "proposition",
+   "num": "2.6",
+   "file": "c02.html",
+   "anchor": "proposition-2-6",
+   "ord": 38,
+   "chap": "2",
+   "n": 6
+  }
+ ],
+ [
+  "ex:torus-identity",
+  {
+   "kind": "example",
+   "num": "2.8",
+   "file": "c02.html",
+   "anchor": "example-2-8",
+   "ord": 40,
+   "chap": "2",
+   "n": 8
+  }
+ ],
+ [
+  "exr:bs1d",
+  {
+   "kind": "exercise",
+   "num": "2.9",
+   "file": "c02.html",
+   "anchor": "exercise-2-9",
+   "ord": 41,
+   "chap": "2",
+   "n": 9
+  }
+ ],
+ [
+  "exr:rp2-torus",
+  {
+   "kind": "exercise",
+   "num": "2.10",
+   "file": "c02.html",
+   "anchor": "exercise-2-10",
+   "ord": 42,
+   "chap": "2",
+   "n": 10
+  }
+ ],
+ [
+  "exr:other-convention",
+  {
+   "kind": "exercise",
+   "num": "2.11",
+   "file": "c02.html",
+   "anchor": "exercise-2-11",
+   "ord": 43,
+   "chap": "2",
+   "n": 11
+  }
+ ],
+ [
+  "exr:bs12",
+  {
+   "kind": "exercise",
+   "num": "2.12",
+   "file": "c02.html",
+   "anchor": "exercise-2-12",
+   "ord": 44,
+   "chap": "2",
+   "n": 12
+  }
+ ],
+ [
+  "lem:retract-split",
+  {
+   "kind": "lemma",
+   "num": "2.13",
+   "file": "c02.html",
+   "anchor": "lemma-2-13",
+   "ord": 46,
+   "chap": "2",
+   "n": 13
+  }
+ ],
+ [
+  "exr:mobius-noretract",
+  {
+   "kind": "exercise",
+   "num": "2.14",
+   "file": "c02.html",
+   "anchor": "exercise-2-14",
+   "ord": 47,
+   "chap": "2",
+   "n": 14
+  }
+ ],
+ [
+  "prop:realise-hom",
+  {
+   "kind": "proposition",
+   "num": "2.15",
+   "file": "c02.html",
+   "anchor": "proposition-2-15",
+   "ord": 48,
+   "chap": "2",
+   "n": 15
+  }
+ ],
+ [
+  "exr:klein-retract",
+  {
+   "kind": "exercise",
+   "num": "2.17",
+   "file": "c02.html",
+   "anchor": "exercise-2-17",
+   "ord": 50,
+   "chap": "2",
+   "n": 17
+  }
+ ],
+ [
+  "ex:three-torus",
+  {
+   "kind": "example",
+   "num": "2.19",
+   "file": "c02.html",
+   "anchor": "example-2-19",
+   "ord": 53,
+   "chap": "2",
+   "n": 19
+  }
+ ],
+ [
+  "rem:screw-warning",
+  {
+   "kind": "remark",
+   "num": "2.20",
+   "file": "c02.html",
+   "anchor": "remark-2-20",
+   "ord": 54,
+   "chap": "2",
+   "n": 20
+  }
+ ],
+ [
+  "ex:lens",
+  {
+   "kind": "example",
+   "num": "2.21",
+   "file": "c02.html",
+   "anchor": "example-2-21",
+   "ord": 55,
+   "chap": "2",
+   "n": 21
+  }
+ ],
+ [
+  "exr:lens-cw",
+  {
+   "kind": "exercise",
+   "num": "2.22",
+   "file": "c02.html",
+   "anchor": "exercise-2-22",
+   "ord": 56,
+   "chap": "2",
+   "n": 22
+  }
+ ],
+ [
+  "rem:lens-limit",
+  {
+   "kind": "remark",
+   "num": "2.23",
+   "file": "c02.html",
+   "anchor": "remark-2-23",
+   "ord": 57,
+   "chap": "2",
+   "n": 23
+  }
+ ],
+ [
+  "ch:coverings",
+  {
+   "kind": "chapter",
+   "num": "3",
+   "file": "c03.html",
+   "anchor": "top",
+   "ord": 59,
+   "chap": "3",
+   "n": 3
+  }
+ ],
+ [
+  "thm:classification",
+  {
+   "kind": "theorem",
+   "num": "3.1",
+   "file": "c03.html",
+   "anchor": "theorem-3-1",
+   "ord": 61,
+   "chap": "3",
+   "n": 1
+  }
+ ],
+ [
+  "ex:R-over-S1",
+  {
+   "kind": "example",
+   "num": "3.2",
+   "file": "c03.html",
+   "anchor": "example-3-2",
+   "ord": 62,
+   "chap": "3",
+   "n": 2
+  }
+ ],
+ [
+  "exr:two-fold-covers",
+  {
+   "kind": "exercise",
+   "num": "3.3",
+   "file": "c03.html",
+   "anchor": "exercise-3-3",
+   "ord": 63,
+   "chap": "3",
+   "n": 3
+  }
+ ],
+ [
+  "exr:nonnormal",
+  {
+   "kind": "exercise",
+   "num": "3.4",
+   "file": "c03.html",
+   "anchor": "exercise-3-4",
+   "ord": 64,
+   "chap": "3",
+   "n": 4
+  }
+ ],
+ [
+  "prop:graph-rank",
+  {
+   "kind": "proposition",
+   "num": "3.5",
+   "file": "c03.html",
+   "anchor": "proposition-3-5",
+   "ord": 66,
+   "chap": "3",
+   "n": 5
+  }
+ ],
+ [
+  "ex:index2-basis",
+  {
+   "kind": "example",
+   "num": "3.6",
+   "file": "c03.html",
+   "anchor": "example-3-6",
+   "ord": 67,
+   "chap": "3",
+   "n": 6
+  }
+ ],
+ [
+  "exr:nielsen-schreier",
+  {
+   "kind": "exercise",
+   "num": "3.7",
+   "file": "c03.html",
+   "anchor": "exercise-3-7",
+   "ord": 68,
+   "chap": "3",
+   "n": 7
+  }
+ ],
+ [
+  "exr:free-subgroups",
+  {
+   "kind": "exercise",
+   "num": "3.8",
+   "file": "c03.html",
+   "anchor": "exercise-3-8",
+   "ord": 69,
+   "chap": "3",
+   "n": 8
+  }
+ ],
+ [
+  "exr:infinite-index",
+  {
+   "kind": "exercise",
+   "num": "3.9",
+   "file": "c03.html",
+   "anchor": "exercise-3-9",
+   "ord": 70,
+   "chap": "3",
+   "n": 9
+  }
+ ],
+ [
+  "def:covering-action",
+  {
+   "kind": "definition",
+   "num": "3.11",
+   "file": "c03.html",
+   "anchor": "definition-3-11",
+   "ord": 73,
+   "chap": "3",
+   "n": 11
+  }
+ ],
+ [
+  "prop:action-quotient",
+  {
+   "kind": "proposition",
+   "num": "3.12",
+   "file": "c03.html",
+   "anchor": "proposition-3-12",
+   "ord": 74,
+   "chap": "3",
+   "n": 12
+  }
+ ],
+ [
+  "ex:lens-again",
+  {
+   "kind": "example",
+   "num": "3.13",
+   "file": "c03.html",
+   "anchor": "example-3-13",
+   "ord": 75,
+   "chap": "3",
+   "n": 13
+  }
+ ],
+ [
+  "exr:torus-covers",
+  {
+   "kind": "exercise",
+   "num": "3.14",
+   "file": "c03.html",
+   "anchor": "exercise-3-14",
+   "ord": 76,
+   "chap": "3",
+   "n": 14
+  }
+ ],
+ [
+  "rem:coverings-limit",
+  {
+   "kind": "remark",
+   "num": "3.15",
+   "file": "c03.html",
+   "anchor": "remark-3-15",
+   "ord": 77,
+   "chap": "3",
+   "n": 15
+  }
+ ],
+ [
+  "ch:computable",
+  {
+   "kind": "chapter",
+   "num": "4",
+   "file": "c04.html",
+   "anchor": "top",
+   "ord": 79,
+   "chap": "4",
+   "n": 4
+  }
+ ],
+ [
+  "def:delta",
+  {
+   "kind": "definition",
+   "num": "4.1",
+   "file": "c04.html",
+   "anchor": "definition-4-1",
+   "ord": 81,
+   "chap": "4",
+   "n": 1
+  }
+ ],
+ [
+  "ex:torus-klein",
+  {
+   "kind": "example",
+   "num": "4.2",
+   "file": "c04.html",
+   "anchor": "example-4-2",
+   "ord": 82,
+   "chap": "4",
+   "n": 2
+  }
+ ],
+ [
+  "exr:rp2-delta",
+  {
+   "kind": "exercise",
+   "num": "4.3",
+   "file": "c04.html",
+   "anchor": "exercise-4-3",
+   "ord": 83,
+   "chap": "4",
+   "n": 3
+  }
+ ],
+ [
+  "thm:cellular",
+  {
+   "kind": "theorem",
+   "num": "4.5",
+   "file": "c04.html",
+   "anchor": "theorem-4-5",
+   "ord": 86,
+   "chap": "4",
+   "n": 5
+  }
+ ],
+ [
+  "prop:cellular-boundary",
+  {
+   "kind": "proposition",
+   "num": "4.6",
+   "file": "c04.html",
+   "anchor": "proposition-4-6",
+   "ord": 87,
+   "chap": "4",
+   "n": 6
+  }
+ ],
+ [
+  "ex:rpn",
+  {
+   "kind": "example",
+   "num": "4.7",
+   "file": "c04.html",
+   "anchor": "example-4-7",
+   "ord": 88,
+   "chap": "4",
+   "n": 7
+  }
+ ],
+ [
+  "ex:lens-homology",
+  {
+   "kind": "example",
+   "num": "4.8",
+   "file": "c04.html",
+   "anchor": "example-4-8",
+   "ord": 89,
+   "chap": "4",
+   "n": 8
+  }
+ ],
+ [
+  "rem:lens-homology-fails",
+  {
+   "kind": "remark",
+   "num": "4.9",
+   "file": "c04.html",
+   "anchor": "remark-4-9",
+   "ord": 90,
+   "chap": "4",
+   "n": 9
+  }
+ ],
+ [
+  "ex:surface-homology",
+  {
+   "kind": "example",
+   "num": "4.10",
+   "file": "c04.html",
+   "anchor": "example-4-10",
+   "ord": 91,
+   "chap": "4",
+   "n": 10
+  }
+ ],
+ [
+  "exr:moore-1",
+  {
+   "kind": "exercise",
+   "num": "4.11",
+   "file": "c04.html",
+   "anchor": "exercise-4-11",
+   "ord": 92,
+   "chap": "4",
+   "n": 11
+  }
+ ],
+ [
+  "exr:euler",
+  {
+   "kind": "exercise",
+   "num": "4.12",
+   "file": "c04.html",
+   "anchor": "exercise-4-12",
+   "ord": 93,
+   "chap": "4",
+   "n": 12
+  }
+ ],
+ [
+  "def:degree",
+  {
+   "kind": "definition",
+   "num": "4.13",
+   "file": "c04.html",
+   "anchor": "definition-4-13",
+   "ord": 95,
+   "chap": "4",
+   "n": 13
+  }
+ ],
+ [
+  "exr:all-degrees",
+  {
+   "kind": "exercise",
+   "num": "4.14",
+   "file": "c04.html",
+   "anchor": "exercise-4-14",
+   "ord": 96,
+   "chap": "4",
+   "n": 14
+  }
+ ],
+ [
+  "exr:double-cover-degree",
+  {
+   "kind": "exercise",
+   "num": "4.15",
+   "file": "c04.html",
+   "anchor": "exercise-4-15",
+   "ord": 97,
+   "chap": "4",
+   "n": 15
+  }
+ ],
+ [
+  "rem:factoring-through-quotient",
+  {
+   "kind": "remark",
+   "num": "4.16",
+   "file": "c04.html",
+   "anchor": "remark-4-16",
+   "ord": 98,
+   "chap": "4",
+   "n": 16
+  }
+ ],
+ [
+  "ch:exactseq",
+  {
+   "kind": "chapter",
+   "num": "5",
+   "file": "c05.html",
+   "anchor": "top",
+   "ord": 100,
+   "chap": "5",
+   "n": 5
+  }
+ ],
+ [
+  "thm:good-pair",
+  {
+   "kind": "theorem",
+   "num": "5.1",
+   "file": "c05.html",
+   "anchor": "theorem-5-1",
+   "ord": 102,
+   "chap": "5",
+   "n": 1
+  }
+ ],
+ [
+  "exr:cw-good-pair",
+  {
+   "kind": "exercise",
+   "num": "5.2",
+   "file": "c05.html",
+   "anchor": "exercise-5-2",
+   "ord": 103,
+   "chap": "5",
+   "n": 2
+  }
+ ],
+ [
+  "ex:h0-direct-sum",
+  {
+   "kind": "example",
+   "num": "5.3",
+   "file": "c05.html",
+   "anchor": "example-5-3",
+   "ord": 104,
+   "chap": "5",
+   "n": 3
+  }
+ ],
+ [
+  "ex:shrinking-wedge",
+  {
+   "kind": "example",
+   "num": "5.4",
+   "file": "c05.html",
+   "anchor": "example-5-4",
+   "ord": 105,
+   "chap": "5",
+   "n": 4
+  }
+ ],
+ [
+  "exr:shrinking-not-wedge",
+  {
+   "kind": "exercise",
+   "num": "5.5",
+   "file": "c05.html",
+   "anchor": "exercise-5-5",
+   "ord": 106,
+   "chap": "5",
+   "n": 5
+  }
+ ],
+ [
+  "rem:good-pair-needed",
+  {
+   "kind": "remark",
+   "num": "5.6",
+   "file": "c05.html",
+   "anchor": "remark-5-6",
+   "ord": 107,
+   "chap": "5",
+   "n": 6
+  }
+ ],
+ [
+  "thm:mv",
+  {
+   "kind": "theorem",
+   "num": "5.7",
+   "file": "c05.html",
+   "anchor": "theorem-5-7",
+   "ord": 109,
+   "chap": "5",
+   "n": 7
+  }
+ ],
+ [
+  "ex:klein-mv",
+  {
+   "kind": "example",
+   "num": "5.8",
+   "file": "c05.html",
+   "anchor": "example-5-8",
+   "ord": 110,
+   "chap": "5",
+   "n": 8
+  }
+ ],
+ [
+  "rem:primitive",
+  {
+   "kind": "remark",
+   "num": "5.9",
+   "file": "c05.html",
+   "anchor": "remark-5-9",
+   "ord": 111,
+   "chap": "5",
+   "n": 9
+  }
+ ],
+ [
+  "exr:heegaard-s1s2",
+  {
+   "kind": "exercise",
+   "num": "5.10",
+   "file": "c05.html",
+   "anchor": "exercise-5-10",
+   "ord": 112,
+   "chap": "5",
+   "n": 10
+  }
+ ],
+ [
+  "exr:heegaard-lens",
+  {
+   "kind": "exercise",
+   "num": "5.11",
+   "file": "c05.html",
+   "anchor": "exercise-5-11",
+   "ord": 113,
+   "chap": "5",
+   "n": 11
+  }
+ ],
+ [
+  "prop:wang",
+  {
+   "kind": "proposition",
+   "num": "5.12",
+   "file": "c05.html",
+   "anchor": "proposition-5-12",
+   "ord": 115,
+   "chap": "5",
+   "n": 12
+  }
+ ],
+ [
+  "eq:wang-split",
+  {
+   "kind": "equation",
+   "num": "5.1",
+   "file": "c05.html",
+   "anchor": "eq-5-1",
+   "ord": 116,
+   "chap": "5",
+   "n": 1
+  }
+ ],
+ [
+  "exr:wang-check",
+  {
+   "kind": "exercise",
+   "num": "5.13",
+   "file": "c05.html",
+   "anchor": "exercise-5-13",
+   "ord": 117,
+   "chap": "5",
+   "n": 13
+  }
+ ],
+ [
+  "ex:wang-sphere",
+  {
+   "kind": "example",
+   "num": "5.14",
+   "file": "c05.html",
+   "anchor": "example-5-14",
+   "ord": 118,
+   "chap": "5",
+   "n": 14
+  }
+ ],
+ [
+  "exr:wang-swap",
+  {
+   "kind": "exercise",
+   "num": "5.15",
+   "file": "c05.html",
+   "anchor": "exercise-5-15",
+   "ord": 119,
+   "chap": "5",
+   "n": 15
+  }
+ ],
+ [
+  "ex:cover-of-wedge",
+  {
+   "kind": "example",
+   "num": "5.16",
+   "file": "c05.html",
+   "anchor": "example-5-16",
+   "ord": 121,
+   "chap": "5",
+   "n": 16
+  }
+ ],
+ [
+  "exr:pi2-wedge",
+  {
+   "kind": "exercise",
+   "num": "5.17",
+   "file": "c05.html",
+   "anchor": "exercise-5-17",
+   "ord": 122,
+   "chap": "5",
+   "n": 17
+  }
+ ],
+ [
+  "rem:homology-blind",
+  {
+   "kind": "remark",
+   "num": "5.18",
+   "file": "c05.html",
+   "anchor": "remark-5-18",
+   "ord": 123,
+   "chap": "5",
+   "n": 18
+  }
+ ],
+ [
+  "ch:ucnat",
+  {
+   "kind": "chapter",
+   "num": "6",
+   "file": "c06.html",
+   "anchor": "top",
+   "ord": 125,
+   "chap": "6",
+   "n": 6
+  }
+ ],
+ [
+  "thm:uct",
+  {
+   "kind": "theorem",
+   "num": "6.1",
+   "file": "c06.html",
+   "anchor": "theorem-6-1",
+   "ord": 127,
+   "chap": "6",
+   "n": 1
+  }
+ ],
+ [
+  "ex:rpn-cohomology",
+  {
+   "kind": "example",
+   "num": "6.2",
+   "file": "c06.html",
+   "anchor": "example-6-2",
+   "ord": 128,
+   "chap": "6",
+   "n": 2
+  }
+ ],
+ [
+  "exr:klein-cohomology",
+  {
+   "kind": "exercise",
+   "num": "6.3",
+   "file": "c06.html",
+   "anchor": "exercise-6-3",
+   "ord": 129,
+   "chap": "6",
+   "n": 3
+  }
+ ],
+ [
+  "prop:moore",
+  {
+   "kind": "proposition",
+   "num": "6.4",
+   "file": "c06.html",
+   "anchor": "proposition-6-4",
+   "ord": 131,
+   "chap": "6",
+   "n": 4
+  }
+ ],
+ [
+  "rem:moore-fg",
+  {
+   "kind": "remark",
+   "num": "6.5",
+   "file": "c06.html",
+   "anchor": "remark-6-5",
+   "ord": 132,
+   "chap": "6",
+   "n": 5
+  }
+ ],
+ [
+  "exr:moore-cohomology",
+  {
+   "kind": "exercise",
+   "num": "6.6",
+   "file": "c06.html",
+   "anchor": "exercise-6-6",
+   "ord": 133,
+   "chap": "6",
+   "n": 6
+  }
+ ],
+ [
+  "sec:unnatural",
+  {
+   "kind": "section",
+   "num": "6.3",
+   "file": "c06.html",
+   "anchor": "sec-6-3",
+   "ord": 134,
+   "chap": "6",
+   "n": 3
+  }
+ ],
+ [
+  "prop:naturality-test",
+  {
+   "kind": "proposition",
+   "num": "6.7",
+   "file": "c06.html",
+   "anchor": "proposition-6-7",
+   "ord": 135,
+   "chap": "6",
+   "n": 7
+  }
+ ],
+ [
+  "ex:rp2-collapse",
+  {
+   "kind": "example",
+   "num": "6.8",
+   "file": "c06.html",
+   "anchor": "example-6-8",
+   "ord": 136,
+   "chap": "6",
+   "n": 8
+  }
+ ],
+ [
+  "cor:no-natural-splitting",
+  {
+   "kind": "corollary",
+   "num": "6.9",
+   "file": "c06.html",
+   "anchor": "corollary-6-9",
+   "ord": 137,
+   "chap": "6",
+   "n": 9
+  }
+ ],
+ [
+  "warn:what-is-natural",
+  {
+   "kind": "warning",
+   "num": "6.10",
+   "file": "c06.html",
+   "anchor": "warning-6-10",
+   "ord": 138,
+   "chap": "6",
+   "n": 10
+  }
+ ],
+ [
+  "exr:h-natural",
+  {
+   "kind": "exercise",
+   "num": "6.11",
+   "file": "c06.html",
+   "anchor": "exercise-6-11",
+   "ord": 139,
+   "chap": "6",
+   "n": 11
+  }
+ ],
+ [
+  "rem:mechanism",
+  {
+   "kind": "remark",
+   "num": "6.12",
+   "file": "c06.html",
+   "anchor": "remark-6-12",
+   "ord": 140,
+   "chap": "6",
+   "n": 12
+  }
+ ],
+ [
+  "rem:naturality-forward",
+  {
+   "kind": "remark",
+   "num": "6.13",
+   "file": "c06.html",
+   "anchor": "remark-6-13",
+   "ord": 141,
+   "chap": "6",
+   "n": 13
+  }
+ ],
+ [
+  "ch:products",
+  {
+   "kind": "chapter",
+   "num": "7",
+   "file": "c07.html",
+   "anchor": "top",
+   "ord": 143,
+   "chap": "7",
+   "n": 7
+  }
+ ],
+ [
+  "ex:torus-ring",
+  {
+   "kind": "example",
+   "num": "7.1",
+   "file": "c07.html",
+   "anchor": "example-7-1",
+   "ord": 145,
+   "chap": "7",
+   "n": 1
+  }
+ ],
+ [
+  "ex:cp2-vs-wedge",
+  {
+   "kind": "example",
+   "num": "7.2",
+   "file": "c07.html",
+   "anchor": "example-7-2",
+   "ord": 146,
+   "chap": "7",
+   "n": 2
+  }
+ ],
+ [
+  "exr:wedge-products",
+  {
+   "kind": "exercise",
+   "num": "7.3",
+   "file": "c07.html",
+   "anchor": "exercise-7-3",
+   "ord": 147,
+   "chap": "7",
+   "n": 3
+  }
+ ],
+ [
+  "exr:s2s2",
+  {
+   "kind": "exercise",
+   "num": "7.4",
+   "file": "c07.html",
+   "anchor": "exercise-7-4",
+   "ord": 148,
+   "chap": "7",
+   "n": 4
+  }
+ ],
+ [
+  "thm:duality",
+  {
+   "kind": "theorem",
+   "num": "7.5",
+   "file": "c07.html",
+   "anchor": "theorem-7-5",
+   "ord": 150,
+   "chap": "7",
+   "n": 5
+  }
+ ],
+ [
+  "exr:h1-free",
+  {
+   "kind": "exercise",
+   "num": "7.6",
+   "file": "c07.html",
+   "anchor": "exercise-7-6",
+   "ord": 151,
+   "chap": "7",
+   "n": 6
+  }
+ ],
+ [
+  "cor:hn-1-free",
+  {
+   "kind": "corollary",
+   "num": "7.7",
+   "file": "c07.html",
+   "anchor": "corollary-7-7",
+   "ord": 152,
+   "chap": "7",
+   "n": 7
+  }
+ ],
+ [
+  "exr:chi-odd",
+  {
+   "kind": "exercise",
+   "num": "7.8",
+   "file": "c07.html",
+   "anchor": "exercise-7-8",
+   "ord": 153,
+   "chap": "7",
+   "n": 8
+  }
+ ],
+ [
+  "rem:three-manifold-programme",
+  {
+   "kind": "remark",
+   "num": "7.9",
+   "file": "c07.html",
+   "anchor": "remark-7-9",
+   "ord": 154,
+   "chap": "7",
+   "n": 9
+  }
+ ],
+ [
+  "ex:lens-ring-fails",
+  {
+   "kind": "example",
+   "num": "7.10",
+   "file": "c07.html",
+   "anchor": "example-7-10",
+   "ord": 156,
+   "chap": "7",
+   "n": 10
+  }
+ ],
+ [
+  "warn:not-proved",
+  {
+   "kind": "warning",
+   "num": "7.11",
+   "file": "c07.html",
+   "anchor": "warning-7-11",
+   "ord": 157,
+   "chap": "7",
+   "n": 11
+  }
+ ],
+ [
+  "rem:ring-not-complete",
+  {
+   "kind": "remark",
+   "num": "7.12",
+   "file": "c07.html",
+   "anchor": "remark-7-12",
+   "ord": 158,
+   "chap": "7",
+   "n": 12
+  }
+ ],
+ [
+  "ch:exttor",
+  {
+   "kind": "chapter",
+   "num": "8",
+   "file": "c08.html",
+   "anchor": "top",
+   "ord": 160,
+   "chap": "8",
+   "n": 8
+  }
+ ],
+ [
+  "def:resolution",
+  {
+   "kind": "definition",
+   "num": "8.1",
+   "file": "c08.html",
+   "anchor": "definition-8-1",
+   "ord": 162,
+   "chap": "8",
+   "n": 1
+  }
+ ],
+ [
+  "prop:comparison",
+  {
+   "kind": "proposition",
+   "num": "8.2",
+   "file": "c08.html",
+   "anchor": "proposition-8-2",
+   "ord": 163,
+   "chap": "8",
+   "n": 2
+  }
+ ],
+ [
+  "ex:z-hereditary",
+  {
+   "kind": "example",
+   "num": "8.4",
+   "file": "c08.html",
+   "anchor": "example-8-4",
+   "ord": 165,
+   "chap": "8",
+   "n": 4
+  }
+ ],
+ [
+  "ex:ext-tor-cyclic",
+  {
+   "kind": "example",
+   "num": "8.5",
+   "file": "c08.html",
+   "anchor": "example-8-5",
+   "ord": 166,
+   "chap": "8",
+   "n": 5
+  }
+ ],
+ [
+  "exr:dual-numbers",
+  {
+   "kind": "exercise",
+   "num": "8.6",
+   "file": "c08.html",
+   "anchor": "exercise-8-6",
+   "ord": 167,
+   "chap": "8",
+   "n": 6
+  }
+ ],
+ [
+  "rem:periodic-resolutions",
+  {
+   "kind": "remark",
+   "num": "8.7",
+   "file": "c08.html",
+   "anchor": "remark-8-7",
+   "ord": 168,
+   "chap": "8",
+   "n": 7
+  }
+ ],
+ [
+  "thm:tor-balance",
+  {
+   "kind": "theorem",
+   "num": "8.8",
+   "file": "c08.html",
+   "anchor": "theorem-8-8",
+   "ord": 170,
+   "chap": "8",
+   "n": 8
+  }
+ ],
+ [
+  "ex:tor-both-ways",
+  {
+   "kind": "example",
+   "num": "8.9",
+   "file": "c08.html",
+   "anchor": "example-8-9",
+   "ord": 171,
+   "chap": "8",
+   "n": 9
+  }
+ ],
+ [
+  "exr:torsion-free-flat",
+  {
+   "kind": "exercise",
+   "num": "8.10",
+   "file": "c08.html",
+   "anchor": "exercise-8-10",
+   "ord": 172,
+   "chap": "8",
+   "n": 10
+  }
+ ],
+ [
+  "exr:kernel-rationalisation",
+  {
+   "kind": "exercise",
+   "num": "8.11",
+   "file": "c08.html",
+   "anchor": "exercise-8-11",
+   "ord": 173,
+   "chap": "8",
+   "n": 11
+  }
+ ],
+ [
+  "rem:tor-divisible-programme",
+  {
+   "kind": "remark",
+   "num": "8.12",
+   "file": "c08.html",
+   "anchor": "remark-8-12",
+   "ord": 174,
+   "chap": "8",
+   "n": 12
+  }
+ ],
+ [
+  "sec:spaces-as-devices",
+  {
+   "kind": "section",
+   "num": "8.3",
+   "file": "c08.html",
+   "anchor": "sec-8-3",
+   "ord": 175,
+   "chap": "8",
+   "n": 3
+  }
+ ],
+ [
+  "ex:tor-realised",
+  {
+   "kind": "example",
+   "num": "8.13",
+   "file": "c08.html",
+   "anchor": "example-8-13",
+   "ord": 176,
+   "chap": "8",
+   "n": 13
+  }
+ ],
+ [
+  "exr:tor-symmetric",
+  {
+   "kind": "exercise",
+   "num": "8.14",
+   "file": "c08.html",
+   "anchor": "exercise-8-14",
+   "ord": 177,
+   "chap": "8",
+   "n": 14
+  }
+ ],
+ [
+  "rem:device-method",
+  {
+   "kind": "remark",
+   "num": "8.15",
+   "file": "c08.html",
+   "anchor": "remark-8-15",
+   "ord": 178,
+   "chap": "8",
+   "n": 15
+  }
+ ],
+ [
+  "thm:kunneth",
+  {
+   "kind": "theorem",
+   "num": "8.16",
+   "file": "c08.html",
+   "anchor": "theorem-8-16",
+   "ord": 180,
+   "chap": "8",
+   "n": 16
+  }
+ ],
+ [
+  "ex:rp2-squared",
+  {
+   "kind": "example",
+   "num": "8.17",
+   "file": "c08.html",
+   "anchor": "example-8-17",
+   "ord": 181,
+   "chap": "8",
+   "n": 17
+  }
+ ],
+ [
+  "prop:kunneth-naturality-test",
+  {
+   "kind": "proposition",
+   "num": "8.18",
+   "file": "c08.html",
+   "anchor": "proposition-8-18",
+   "ord": 182,
+   "chap": "8",
+   "n": 18
+  }
+ ],
+ [
+  "rem:kunneth-witness",
+  {
+   "kind": "remark",
+   "num": "8.19",
+   "file": "c08.html",
+   "anchor": "remark-8-19",
+   "ord": 183,
+   "chap": "8",
+   "n": 19
+  }
+ ],
+ [
+  "ch:towers",
+  {
+   "kind": "chapter",
+   "num": "9",
+   "file": "c09.html",
+   "anchor": "top",
+   "ord": 185,
+   "chap": "9",
+   "n": 9
+  }
+ ],
+ [
+  "def:lim1",
+  {
+   "kind": "definition",
+   "num": "9.1",
+   "file": "c09.html",
+   "anchor": "definition-9-1",
+   "ord": 187,
+   "chap": "9",
+   "n": 1
+  }
+ ],
+ [
+  "exr:surjective-tower",
+  {
+   "kind": "exercise",
+   "num": "9.2",
+   "file": "c09.html",
+   "anchor": "exercise-9-2",
+   "ord": 188,
+   "chap": "9",
+   "n": 2
+  }
+ ],
+ [
+  "exr:pro-zero",
+  {
+   "kind": "exercise",
+   "num": "9.3",
+   "file": "c09.html",
+   "anchor": "exercise-9-3",
+   "ord": 189,
+   "chap": "9",
+   "n": 3
+  }
+ ],
+ [
+  "thm:six-term",
+  {
+   "kind": "theorem",
+   "num": "9.4",
+   "file": "c09.html",
+   "anchor": "theorem-9-4",
+   "ord": 190,
+   "chap": "9",
+   "n": 4
+  }
+ ],
+ [
+  "def:ML",
+  {
+   "kind": "definition",
+   "num": "9.5",
+   "file": "c09.html",
+   "anchor": "definition-9-5",
+   "ord": 191,
+   "chap": "9",
+   "n": 5
+  }
+ ],
+ [
+  "warn:ML-misreading",
+  {
+   "kind": "warning",
+   "num": "9.6",
+   "file": "c09.html",
+   "anchor": "warning-9-6",
+   "ord": 192,
+   "chap": "9",
+   "n": 6
+  }
+ ],
+ [
+  "rem:ML-programme",
+  {
+   "kind": "remark",
+   "num": "9.7",
+   "file": "c09.html",
+   "anchor": "remark-9-7",
+   "ord": 193,
+   "chap": "9",
+   "n": 7
+  }
+ ],
+ [
+  "ex:lim1-padic",
+  {
+   "kind": "example",
+   "num": "9.8",
+   "file": "c09.html",
+   "anchor": "example-9-8",
+   "ord": 194,
+   "chap": "9",
+   "n": 8
+  }
+ ],
+ [
+  "thm:milnor",
+  {
+   "kind": "theorem",
+   "num": "9.9",
+   "file": "c09.html",
+   "anchor": "theorem-9-9",
+   "ord": 195,
+   "chap": "9",
+   "n": 9
+  }
+ ],
+ [
+  "exr:cpinfty-milnor",
+  {
+   "kind": "exercise",
+   "num": "9.10",
+   "file": "c09.html",
+   "anchor": "exercise-9-10",
+   "ord": 196,
+   "chap": "9",
+   "n": 10
+  }
+ ],
+ [
+  "def:bockstein",
+  {
+   "kind": "definition",
+   "num": "9.11",
+   "file": "c09.html",
+   "anchor": "definition-9-11",
+   "ord": 198,
+   "chap": "9",
+   "n": 11
+  }
+ ],
+ [
+  "exr:beta-derivation",
+  {
+   "kind": "exercise",
+   "num": "9.12",
+   "file": "c09.html",
+   "anchor": "exercise-9-12",
+   "ord": 199,
+   "chap": "9",
+   "n": 12
+  }
+ ],
+ [
+  "def:beta-homology",
+  {
+   "kind": "definition",
+   "num": "9.13",
+   "file": "c09.html",
+   "anchor": "definition-9-13",
+   "ord": 200,
+   "chap": "9",
+   "n": 13
+  }
+ ],
+ [
+  "prop:beta-detects",
+  {
+   "kind": "proposition",
+   "num": "9.14",
+   "file": "c09.html",
+   "anchor": "proposition-9-14",
+   "ord": 201,
+   "chap": "9",
+   "n": 14
+  }
+ ],
+ [
+  "ex:beta-moore",
+  {
+   "kind": "example",
+   "num": "9.15",
+   "file": "c09.html",
+   "anchor": "example-9-15",
+   "ord": 202,
+   "chap": "9",
+   "n": 15
+  }
+ ],
+ [
+  "ex:beta-rpinfty",
+  {
+   "kind": "example",
+   "num": "9.16",
+   "file": "c09.html",
+   "anchor": "example-9-16",
+   "ord": 203,
+   "chap": "9",
+   "n": 16
+  }
+ ],
+ [
+  "exr:beta-lens",
+  {
+   "kind": "exercise",
+   "num": "9.17",
+   "file": "c09.html",
+   "anchor": "exercise-9-17",
+   "ord": 204,
+   "chap": "9",
+   "n": 17
+  }
+ ],
+ [
+  "rem:bockstein-forward",
+  {
+   "kind": "remark",
+   "num": "9.18",
+   "file": "c09.html",
+   "anchor": "remark-9-18",
+   "ord": 205,
+   "chap": "9",
+   "n": 18
+  }
+ ],
+ [
+  "ch:hspaces",
+  {
+   "kind": "chapter",
+   "num": "10",
+   "file": "c10.html",
+   "anchor": "top",
+   "ord": 207,
+   "chap": "10",
+   "n": 10
+  }
+ ],
+ [
+  "ex:hopf-odd-sphere",
+  {
+   "kind": "example",
+   "num": "10.1",
+   "file": "c10.html",
+   "anchor": "example-10-1",
+   "ord": 209,
+   "chap": "10",
+   "n": 1
+  }
+ ],
+ [
+  "ex:hopf-torus-cp",
+  {
+   "kind": "example",
+   "num": "10.2",
+   "file": "c10.html",
+   "anchor": "example-10-2",
+   "ord": 210,
+   "chap": "10",
+   "n": 2
+  }
+ ],
+ [
+  "thm:hopf",
+  {
+   "kind": "theorem",
+   "num": "10.3",
+   "file": "c10.html",
+   "anchor": "theorem-10-3",
+   "ord": 211,
+   "chap": "10",
+   "n": 3
+  }
+ ],
+ [
+  "exr:no-even-hspace",
+  {
+   "kind": "exercise",
+   "num": "10.4",
+   "file": "c10.html",
+   "anchor": "exercise-10-4",
+   "ord": 212,
+   "chap": "10",
+   "n": 4
+  }
+ ],
+ [
+  "def:primitive",
+  {
+   "kind": "definition",
+   "num": "10.6",
+   "file": "c10.html",
+   "anchor": "definition-10-6",
+   "ord": 215,
+   "chap": "10",
+   "n": 6
+  }
+ ],
+ [
+  "lem:primitive-degree",
+  {
+   "kind": "lemma",
+   "num": "10.7",
+   "file": "c10.html",
+   "anchor": "lemma-10-7",
+   "ord": 216,
+   "chap": "10",
+   "n": 7
+  }
+ ],
+ [
+  "ex:primitives-computed",
+  {
+   "kind": "example",
+   "num": "10.8",
+   "file": "c10.html",
+   "anchor": "example-10-8",
+   "ord": 217,
+   "chap": "10",
+   "n": 8
+  }
+ ],
+ [
+  "exr:hmap-primitives",
+  {
+   "kind": "exercise",
+   "num": "10.9",
+   "file": "c10.html",
+   "anchor": "exercise-10-9",
+   "ord": 218,
+   "chap": "10",
+   "n": 9
+  }
+ ],
+ [
+  "def:pointwise-product",
+  {
+   "kind": "definition",
+   "num": "10.10",
+   "file": "c10.html",
+   "anchor": "definition-10-10",
+   "ord": 220,
+   "chap": "10",
+   "n": 10
+  }
+ ],
+ [
+  "rem:em-space-addition",
+  {
+   "kind": "remark",
+   "num": "10.11",
+   "file": "c10.html",
+   "anchor": "remark-10-11",
+   "ord": 221,
+   "chap": "10",
+   "n": 11
+  }
+ ],
+ [
+  "ex:power-circle",
+  {
+   "kind": "example",
+   "num": "10.12",
+   "file": "c10.html",
+   "anchor": "example-10-12",
+   "ord": 222,
+   "chap": "10",
+   "n": 12
+  }
+ ],
+ [
+  "exr:power-homotopy",
+  {
+   "kind": "exercise",
+   "num": "10.13",
+   "file": "c10.html",
+   "anchor": "exercise-10-13",
+   "ord": 223,
+   "chap": "10",
+   "n": 13
+  }
+ ],
+ [
+  "ex:power-torus",
+  {
+   "kind": "example",
+   "num": "10.14",
+   "file": "c10.html",
+   "anchor": "example-10-14",
+   "ord": 224,
+   "chap": "10",
+   "n": 14
+  }
+ ],
+ [
+  "rem:primitive-power",
+  {
+   "kind": "remark",
+   "num": "10.15",
+   "file": "c10.html",
+   "anchor": "remark-10-15",
+   "ord": 225,
+   "chap": "10",
+   "n": 15
+  }
+ ],
+ [
+  "rem:hspace-forward",
+  {
+   "kind": "remark",
+   "num": "10.16",
+   "file": "c10.html",
+   "anchor": "remark-10-16",
+   "ord": 226,
+   "chap": "10",
+   "n": 16
+  }
+ ],
+ [
+  "ch:cofib",
+  {
+   "kind": "chapter",
+   "num": "11",
+   "file": "c11.html",
+   "anchor": "top",
+   "ord": 228,
+   "chap": "11",
+   "n": 11
+  }
+ ],
+ [
+  "sec:hep",
+  {
+   "kind": "section",
+   "num": "11.1",
+   "file": "c11.html",
+   "anchor": "sec-11-1",
+   "ord": 229,
+   "chap": "11",
+   "n": 1
+  }
+ ],
+ [
+  "def:hep",
+  {
+   "kind": "definition",
+   "num": "11.1",
+   "file": "c11.html",
+   "anchor": "definition-11-1",
+   "ord": 230,
+   "chap": "11",
+   "n": 1
+  }
+ ],
+ [
+  "exr:cw-hep",
+  {
+   "kind": "exercise",
+   "num": "11.2",
+   "file": "c11.html",
+   "anchor": "exercise-11-2",
+   "ord": 231,
+   "chap": "11",
+   "n": 2
+  }
+ ],
+ [
+  "prop:collapse-contractible",
+  {
+   "kind": "proposition",
+   "num": "11.3",
+   "file": "c11.html",
+   "anchor": "proposition-11-3",
+   "ord": 232,
+   "chap": "11",
+   "n": 3
+  }
+ ],
+ [
+  "ex:spanning-tree",
+  {
+   "kind": "example",
+   "num": "11.4",
+   "file": "c11.html",
+   "anchor": "example-11-4",
+   "ord": 233,
+   "chap": "11",
+   "n": 4
+  }
+ ],
+ [
+  "warn:cofibration-needed",
+  {
+   "kind": "warning",
+   "num": "11.5",
+   "file": "c11.html",
+   "anchor": "warning-11-5",
+   "ord": 234,
+   "chap": "11",
+   "n": 5
+  }
+ ],
+ [
+  "exr:cone-quotient",
+  {
+   "kind": "exercise",
+   "num": "11.6",
+   "file": "c11.html",
+   "anchor": "exercise-11-6",
+   "ord": 235,
+   "chap": "11",
+   "n": 6
+  }
+ ],
+ [
+  "thm:cellular-approx",
+  {
+   "kind": "theorem",
+   "num": "11.7",
+   "file": "c11.html",
+   "anchor": "theorem-11-7",
+   "ord": 237,
+   "chap": "11",
+   "n": 7
+  }
+ ],
+ [
+  "exr:skeleta-homotopy",
+  {
+   "kind": "exercise",
+   "num": "11.8",
+   "file": "c11.html",
+   "anchor": "exercise-11-8",
+   "ord": 238,
+   "chap": "11",
+   "n": 8
+  }
+ ],
+ [
+  "thm:connected-model",
+  {
+   "kind": "theorem",
+   "num": "11.9",
+   "file": "c11.html",
+   "anchor": "theorem-11-9",
+   "ord": 239,
+   "chap": "11",
+   "n": 9
+  }
+ ],
+ [
+  "ex:sphere-model",
+  {
+   "kind": "example",
+   "num": "11.10",
+   "file": "c11.html",
+   "anchor": "example-11-10",
+   "ord": 240,
+   "chap": "11",
+   "n": 10
+  }
+ ],
+ [
+  "thm:extension-lemma",
+  {
+   "kind": "theorem",
+   "num": "11.11",
+   "file": "c11.html",
+   "anchor": "theorem-11-11",
+   "ord": 242,
+   "chap": "11",
+   "n": 11
+  }
+ ],
+ [
+  "rem:obstruction-embryo",
+  {
+   "kind": "remark",
+   "num": "11.12",
+   "file": "c11.html",
+   "anchor": "remark-11-12",
+   "ord": 243,
+   "chap": "11",
+   "n": 12
+  }
+ ],
+ [
+  "exr:nullhomotopic-low-dim",
+  {
+   "kind": "exercise",
+   "num": "11.13",
+   "file": "c11.html",
+   "anchor": "exercise-11-13",
+   "ord": 244,
+   "chap": "11",
+   "n": 13
+  }
+ ],
+ [
+  "rem:connectivity-forward",
+  {
+   "kind": "remark",
+   "num": "11.14",
+   "file": "c11.html",
+   "anchor": "remark-11-14",
+   "ord": 245,
+   "chap": "11",
+   "n": 14
+  }
+ ],
+ [
+  "ch:bundles",
+  {
+   "kind": "chapter",
+   "num": "12",
+   "file": "c12.html",
+   "anchor": "top",
+   "ord": 247,
+   "chap": "12",
+   "n": 12
+  }
+ ],
+ [
+  "def:bundle",
+  {
+   "kind": "definition",
+   "num": "12.1",
+   "file": "c12.html",
+   "anchor": "definition-12-1",
+   "ord": 249,
+   "chap": "12",
+   "n": 1
+  }
+ ],
+ [
+  "ex:tautological",
+  {
+   "kind": "example",
+   "num": "12.2",
+   "file": "c12.html",
+   "anchor": "example-12-2",
+   "ord": 250,
+   "chap": "12",
+   "n": 2
+  }
+ ],
+ [
+  "prop:tangent-rpn",
+  {
+   "kind": "proposition",
+   "num": "12.3",
+   "file": "c12.html",
+   "anchor": "proposition-12-3",
+   "ord": 251,
+   "chap": "12",
+   "n": 3
+  }
+ ],
+ [
+  "thm:sw-axioms",
+  {
+   "kind": "theorem",
+   "num": "12.4",
+   "file": "c12.html",
+   "anchor": "theorem-12-4",
+   "ord": 253,
+   "chap": "12",
+   "n": 4
+  }
+ ],
+ [
+  "ex:sw-trivial",
+  {
+   "kind": "example",
+   "num": "12.5",
+   "file": "c12.html",
+   "anchor": "example-12-5",
+   "ord": 254,
+   "chap": "12",
+   "n": 5
+  }
+ ],
+ [
+  "ex:sw-rpq",
+  {
+   "kind": "example",
+   "num": "12.6",
+   "file": "c12.html",
+   "anchor": "example-12-6",
+   "ord": 255,
+   "chap": "12",
+   "n": 6
+  }
+ ],
+ [
+  "warn:truncation",
+  {
+   "kind": "warning",
+   "num": "12.7",
+   "file": "c12.html",
+   "anchor": "warning-12-7",
+   "ord": 256,
+   "chap": "12",
+   "n": 7
+  }
+ ],
+ [
+  "ex:sw-small-q",
+  {
+   "kind": "example",
+   "num": "12.8",
+   "file": "c12.html",
+   "anchor": "example-12-8",
+   "ord": 257,
+   "chap": "12",
+   "n": 8
+  }
+ ],
+ [
+  "exr:rp2-not-parallelisable",
+  {
+   "kind": "exercise",
+   "num": "12.9",
+   "file": "c12.html",
+   "anchor": "exercise-12-9",
+   "ord": 258,
+   "chap": "12",
+   "n": 9
+  }
+ ],
+ [
+  "exr:frobenius-binomial",
+  {
+   "kind": "exercise",
+   "num": "12.10",
+   "file": "c12.html",
+   "anchor": "exercise-12-10",
+   "ord": 259,
+   "chap": "12",
+   "n": 10
+  }
+ ],
+ [
+  "rem:sw-programme",
+  {
+   "kind": "remark",
+   "num": "12.11",
+   "file": "c12.html",
+   "anchor": "remark-12-11",
+   "ord": 260,
+   "chap": "12",
+   "n": 11
+  }
+ ],
+ [
+  "rem:sw-limits",
+  {
+   "kind": "remark",
+   "num": "12.12",
+   "file": "c12.html",
+   "anchor": "remark-12-12",
+   "ord": 262,
+   "chap": "12",
+   "n": 12
+  }
+ ],
+ [
+  "ch:whitehead",
+  {
+   "kind": "chapter",
+   "num": "13",
+   "file": "c13.html",
+   "anchor": "top",
+   "ord": 264,
+   "chap": "13",
+   "n": 13
+  }
+ ],
+ [
+  "thm:whitehead",
+  {
+   "kind": "theorem",
+   "num": "13.1",
+   "file": "c13.html",
+   "anchor": "theorem-13-1",
+   "ord": 266,
+   "chap": "13",
+   "n": 1
+  }
+ ],
+ [
+  "warn:need-a-map",
+  {
+   "kind": "warning",
+   "num": "13.2",
+   "file": "c13.html",
+   "anchor": "warning-13-2",
+   "ord": 267,
+   "chap": "13",
+   "n": 2
+  }
+ ],
+ [
+  "exr:contractible-criterion",
+  {
+   "kind": "exercise",
+   "num": "13.3",
+   "file": "c13.html",
+   "anchor": "exercise-13-3",
+   "ord": 268,
+   "chap": "13",
+   "n": 3
+  }
+ ],
+ [
+  "thm:homology-whitehead",
+  {
+   "kind": "theorem",
+   "num": "13.4",
+   "file": "c13.html",
+   "anchor": "theorem-13-4",
+   "ord": 270,
+   "chap": "13",
+   "n": 4
+  }
+ ],
+ [
+  "warn:simply-connected",
+  {
+   "kind": "warning",
+   "num": "13.5",
+   "file": "c13.html",
+   "anchor": "warning-13-5",
+   "ord": 271,
+   "chap": "13",
+   "n": 5
+  }
+ ],
+ [
+  "prop:upstairs",
+  {
+   "kind": "proposition",
+   "num": "13.6",
+   "file": "c13.html",
+   "anchor": "proposition-13-6",
+   "ord": 272,
+   "chap": "13",
+   "n": 6
+  }
+ ],
+ [
+  "exr:cover-homotopy-groups",
+  {
+   "kind": "exercise",
+   "num": "13.7",
+   "file": "c13.html",
+   "anchor": "exercise-13-7",
+   "ord": 273,
+   "chap": "13",
+   "n": 7
+  }
+ ],
+ [
+  "rem:local-coefficients",
+  {
+   "kind": "remark",
+   "num": "13.8",
+   "file": "c13.html",
+   "anchor": "remark-13-8",
+   "ord": 274,
+   "chap": "13",
+   "n": 8
+  }
+ ],
+ [
+  "thm:postnikov",
+  {
+   "kind": "theorem",
+   "num": "13.9",
+   "file": "c13.html",
+   "anchor": "theorem-13-9",
+   "ord": 276,
+   "chap": "13",
+   "n": 9
+  }
+ ],
+ [
+  "exr:connective-cover",
+  {
+   "kind": "exercise",
+   "num": "13.10",
+   "file": "c13.html",
+   "anchor": "exercise-13-10",
+   "ord": 277,
+   "chap": "13",
+   "n": 10
+  }
+ ],
+ [
+  "ex:two-stage",
+  {
+   "kind": "example",
+   "num": "13.11",
+   "file": "c13.html",
+   "anchor": "example-13-11",
+   "ord": 278,
+   "chap": "13",
+   "n": 11
+  }
+ ],
+ [
+  "exr:trivial-k-invariant",
+  {
+   "kind": "exercise",
+   "num": "13.12",
+   "file": "c13.html",
+   "anchor": "exercise-13-12",
+   "ord": 279,
+   "chap": "13",
+   "n": 12
+  }
+ ],
+ [
+  "rem:truncations",
+  {
+   "kind": "remark",
+   "num": "13.13",
+   "file": "c13.html",
+   "anchor": "remark-13-13",
+   "ord": 280,
+   "chap": "13",
+   "n": 13
+  }
+ ],
+ [
+  "rem:spaces-missed",
+  {
+   "kind": "remark",
+   "num": "13.14",
+   "file": "c13.html",
+   "anchor": "remark-13-14",
+   "ord": 282,
+   "chap": "13",
+   "n": 14
+  }
+ ],
+ [
+  "rem:maps-missed",
+  {
+   "kind": "remark",
+   "num": "13.15",
+   "file": "c13.html",
+   "anchor": "remark-13-15",
+   "ord": 283,
+   "chap": "13",
+   "n": 15
+  }
+ ],
+ [
+  "ch:fibrations",
+  {
+   "kind": "chapter",
+   "num": "14",
+   "file": "c14.html",
+   "anchor": "top",
+   "ord": 285,
+   "chap": "14",
+   "n": 14
+  }
+ ],
+ [
+  "def:fibration",
+  {
+   "kind": "definition",
+   "num": "14.1",
+   "file": "c14.html",
+   "anchor": "definition-14-1",
+   "ord": 287,
+   "chap": "14",
+   "n": 1
+  }
+ ],
+ [
+  "thm:relative-iso",
+  {
+   "kind": "theorem",
+   "num": "14.2",
+   "file": "c14.html",
+   "anchor": "theorem-14-2",
+   "ord": 288,
+   "chap": "14",
+   "n": 2
+  }
+ ],
+ [
+  "cor:les-fibration",
+  {
+   "kind": "corollary",
+   "num": "14.3",
+   "file": "c14.html",
+   "anchor": "corollary-14-3",
+   "ord": 289,
+   "chap": "14",
+   "n": 3
+  }
+ ],
+ [
+  "exr:contractible-total",
+  {
+   "kind": "exercise",
+   "num": "14.4",
+   "file": "c14.html",
+   "anchor": "exercise-14-4",
+   "ord": 290,
+   "chap": "14",
+   "n": 4
+  }
+ ],
+ [
+  "ex:path-loop",
+  {
+   "kind": "example",
+   "num": "14.5",
+   "file": "c14.html",
+   "anchor": "example-14-5",
+   "ord": 291,
+   "chap": "14",
+   "n": 5
+  }
+ ],
+ [
+  "exr:cpinfty-em",
+  {
+   "kind": "exercise",
+   "num": "14.6",
+   "file": "c14.html",
+   "anchor": "exercise-14-6",
+   "ord": 292,
+   "chap": "14",
+   "n": 6
+  }
+ ],
+ [
+  "exr:section-splitting",
+  {
+   "kind": "exercise",
+   "num": "14.7",
+   "file": "c14.html",
+   "anchor": "exercise-14-7",
+   "ord": 294,
+   "chap": "14",
+   "n": 7
+  }
+ ],
+ [
+  "warn:split-needs-construction",
+  {
+   "kind": "warning",
+   "num": "14.8",
+   "file": "c14.html",
+   "anchor": "warning-14-8",
+   "ord": 295,
+   "chap": "14",
+   "n": 8
+  }
+ ],
+ [
+  "rem:splitting-mechanism",
+  {
+   "kind": "remark",
+   "num": "14.9",
+   "file": "c14.html",
+   "anchor": "remark-14-9",
+   "ord": 296,
+   "chap": "14",
+   "n": 9
+  }
+ ],
+ [
+  "ex:hopf-s2",
+  {
+   "kind": "example",
+   "num": "14.10",
+   "file": "c14.html",
+   "anchor": "example-14-10",
+   "ord": 298,
+   "chap": "14",
+   "n": 10
+  }
+ ],
+ [
+  "exr:aspherical",
+  {
+   "kind": "exercise",
+   "num": "14.11",
+   "file": "c14.html",
+   "anchor": "exercise-14-11",
+   "ord": 299,
+   "chap": "14",
+   "n": 11
+  }
+ ],
+ [
+  "thm:freudenthal",
+  {
+   "kind": "theorem",
+   "num": "14.12",
+   "file": "c14.html",
+   "anchor": "theorem-14-12",
+   "ord": 300,
+   "chap": "14",
+   "n": 12
+  }
+ ],
+ [
+  "ex:stable-range",
+  {
+   "kind": "example",
+   "num": "14.13",
+   "file": "c14.html",
+   "anchor": "example-14-13",
+   "ord": 301,
+   "chap": "14",
+   "n": 13
+  }
+ ],
+ [
+  "rem:les-limits",
+  {
+   "kind": "remark",
+   "num": "14.14",
+   "file": "c14.html",
+   "anchor": "remark-14-14",
+   "ord": 302,
+   "chap": "14",
+   "n": 14
+  }
+ ],
+ [
+  "ch:serre",
+  {
+   "kind": "chapter",
+   "num": "15",
+   "file": "c15.html",
+   "anchor": "top",
+   "ord": 304,
+   "chap": "15",
+   "n": 15
+  }
+ ],
+ [
+  "thm:serre-ss",
+  {
+   "kind": "theorem",
+   "num": "15.1",
+   "file": "c15.html",
+   "anchor": "theorem-15-1",
+   "ord": 306,
+   "chap": "15",
+   "n": 1
+  }
+ ],
+ [
+  "ex:ss-product",
+  {
+   "kind": "example",
+   "num": "15.2",
+   "file": "c15.html",
+   "anchor": "example-15-2",
+   "ord": 307,
+   "chap": "15",
+   "n": 2
+  }
+ ],
+ [
+  "ex:loop-space",
+  {
+   "kind": "example",
+   "num": "15.3",
+   "file": "c15.html",
+   "anchor": "example-15-3",
+   "ord": 308,
+   "chap": "15",
+   "n": 3
+  }
+ ],
+ [
+  "warn:read-backwards",
+  {
+   "kind": "warning",
+   "num": "15.4",
+   "file": "c15.html",
+   "anchor": "warning-15-4",
+   "ord": 309,
+   "chap": "15",
+   "n": 4
+  }
+ ],
+ [
+  "ex:ss-hopf",
+  {
+   "kind": "example",
+   "num": "15.5",
+   "file": "c15.html",
+   "anchor": "example-15-5",
+   "ord": 310,
+   "chap": "15",
+   "n": 5
+  }
+ ],
+ [
+  "ex:ss-klein",
+  {
+   "kind": "example",
+   "num": "15.6",
+   "file": "c15.html",
+   "anchor": "example-15-6",
+   "ord": 312,
+   "chap": "15",
+   "n": 6
+  }
+ ],
+ [
+  "exr:monodromy-is-f",
+  {
+   "kind": "exercise",
+   "num": "15.7",
+   "file": "c15.html",
+   "anchor": "exercise-15-7",
+   "ord": 313,
+   "chap": "15",
+   "n": 7
+  }
+ ],
+ [
+  "rem:untwisted",
+  {
+   "kind": "remark",
+   "num": "15.8",
+   "file": "c15.html",
+   "anchor": "remark-15-8",
+   "ord": 314,
+   "chap": "15",
+   "n": 8
+  }
+ ],
+ [
+  "exr:order-counting",
+  {
+   "kind": "exercise",
+   "num": "15.9",
+   "file": "c15.html",
+   "anchor": "exercise-15-9",
+   "ord": 316,
+   "chap": "15",
+   "n": 9
+  }
+ ],
+ [
+  "warn:extension-problem",
+  {
+   "kind": "warning",
+   "num": "15.10",
+   "file": "c15.html",
+   "anchor": "warning-15-10",
+   "ord": 317,
+   "chap": "15",
+   "n": 10
+  }
+ ],
+ [
+  "exr:ss-gives-wang",
+  {
+   "kind": "exercise",
+   "num": "15.11",
+   "file": "c15.html",
+   "anchor": "exercise-15-11",
+   "ord": 318,
+   "chap": "15",
+   "n": 11
+  }
+ ],
+ [
+  "rem:forcing-recipe",
+  {
+   "kind": "remark",
+   "num": "15.12",
+   "file": "c15.html",
+   "anchor": "remark-15-12",
+   "ord": 319,
+   "chap": "15",
+   "n": 12
+  }
+ ],
+ [
+  "def:serre-class",
+  {
+   "kind": "definition",
+   "num": "15.13",
+   "file": "c15.html",
+   "anchor": "definition-15-13",
+   "ord": 321,
+   "chap": "15",
+   "n": 13
+  }
+ ],
+ [
+  "exr:fg-serre",
+  {
+   "kind": "exercise",
+   "num": "15.14",
+   "file": "c15.html",
+   "anchor": "exercise-15-14",
+   "ord": 322,
+   "chap": "15",
+   "n": 14
+  }
+ ],
+ [
+  "rem:serre-class-use",
+  {
+   "kind": "remark",
+   "num": "15.15",
+   "file": "c15.html",
+   "anchor": "remark-15-15",
+   "ord": 323,
+   "chap": "15",
+   "n": 15
+  }
+ ],
+ [
+  "ch:multiplicative",
+  {
+   "kind": "chapter",
+   "num": "16",
+   "file": "c16.html",
+   "anchor": "top",
+   "ord": 325,
+   "chap": "16",
+   "n": 16
+  }
+ ],
+ [
+  "thm:ss-multiplicative",
+  {
+   "kind": "theorem",
+   "num": "16.1",
+   "file": "c16.html",
+   "anchor": "theorem-16-1",
+   "ord": 327,
+   "chap": "16",
+   "n": 1
+  }
+ ],
+ [
+  "ex:kz2",
+  {
+   "kind": "example",
+   "num": "16.2",
+   "file": "c16.html",
+   "anchor": "example-16-2",
+   "ord": 328,
+   "chap": "16",
+   "n": 2
+  }
+ ],
+ [
+  "exr:loop-odd-sphere-ring",
+  {
+   "kind": "exercise",
+   "num": "16.3",
+   "file": "c16.html",
+   "anchor": "exercise-16-3",
+   "ord": 329,
+   "chap": "16",
+   "n": 3
+  }
+ ],
+ [
+  "thm:leray-hirsch",
+  {
+   "kind": "theorem",
+   "num": "16.4",
+   "file": "c16.html",
+   "anchor": "theorem-16-4",
+   "ord": 331,
+   "chap": "16",
+   "n": 4
+  }
+ ],
+ [
+  "warn:module-not-ring",
+  {
+   "kind": "warning",
+   "num": "16.5",
+   "file": "c16.html",
+   "anchor": "warning-16-5",
+   "ord": 332,
+   "chap": "16",
+   "n": 5
+  }
+ ],
+ [
+  "exr:lh-fails-hopf",
+  {
+   "kind": "exercise",
+   "num": "16.6",
+   "file": "c16.html",
+   "anchor": "exercise-16-6",
+   "ord": 333,
+   "chap": "16",
+   "n": 6
+  }
+ ],
+ [
+  "ex:projective-bundle",
+  {
+   "kind": "example",
+   "num": "16.7",
+   "file": "c16.html",
+   "anchor": "example-16-7",
+   "ord": 334,
+   "chap": "16",
+   "n": 7
+  }
+ ],
+ [
+  "exr:cpn-from-lh",
+  {
+   "kind": "exercise",
+   "num": "16.8",
+   "file": "c16.html",
+   "anchor": "exercise-16-8",
+   "ord": 335,
+   "chap": "16",
+   "n": 8
+  }
+ ],
+ [
+  "thm:gysin",
+  {
+   "kind": "theorem",
+   "num": "16.9",
+   "file": "c16.html",
+   "anchor": "theorem-16-9",
+   "ord": 337,
+   "chap": "16",
+   "n": 9
+  }
+ ],
+ [
+  "exr:derive-gysin",
+  {
+   "kind": "exercise",
+   "num": "16.10",
+   "file": "c16.html",
+   "anchor": "exercise-16-10",
+   "ord": 338,
+   "chap": "16",
+   "n": 10
+  }
+ ],
+ [
+  "ex:cpn-gysin",
+  {
+   "kind": "example",
+   "num": "16.11",
+   "file": "c16.html",
+   "anchor": "example-16-11",
+   "ord": 339,
+   "chap": "16",
+   "n": 11
+  }
+ ],
+ [
+  "thm:thom",
+  {
+   "kind": "theorem",
+   "num": "16.12",
+   "file": "c16.html",
+   "anchor": "theorem-16-12",
+   "ord": 340,
+   "chap": "16",
+   "n": 12
+  }
+ ],
+ [
+  "def:hopf-invariant",
+  {
+   "kind": "definition",
+   "num": "16.13",
+   "file": "c16.html",
+   "anchor": "definition-16-13",
+   "ord": 342,
+   "chap": "16",
+   "n": 13
+  }
+ ],
+ [
+  "ex:hopf-invariant-one",
+  {
+   "kind": "example",
+   "num": "16.14",
+   "file": "c16.html",
+   "anchor": "example-16-14",
+   "ord": 343,
+   "chap": "16",
+   "n": 14
+  }
+ ],
+ [
+  "exr:hopf-suspension",
+  {
+   "kind": "exercise",
+   "num": "16.15",
+   "file": "c16.html",
+   "anchor": "exercise-16-15",
+   "ord": 344,
+   "chap": "16",
+   "n": 15
+  }
+ ],
+ [
+  "exr:hopf-odd",
+  {
+   "kind": "exercise",
+   "num": "16.16",
+   "file": "c16.html",
+   "anchor": "exercise-16-16",
+   "ord": 345,
+   "chap": "16",
+   "n": 16
+  }
+ ],
+ [
+  "rem:gysin-thom-programme",
+  {
+   "kind": "remark",
+   "num": "16.17",
+   "file": "c16.html",
+   "anchor": "remark-16-17",
+   "ord": 346,
+   "chap": "16",
+   "n": 17
+  }
+ ],
+ [
+  "ch:obstruction",
+  {
+   "kind": "chapter",
+   "num": "17",
+   "file": "c17.html",
+   "anchor": "top",
+   "ord": 348,
+   "chap": "17",
+   "n": 17
+  }
+ ],
+ [
+  "con:obstruction",
+  {
+   "kind": "construction",
+   "num": "17.1",
+   "file": "c17.html",
+   "anchor": "construction-17-1",
+   "ord": 350,
+   "chap": "17",
+   "n": 1
+  }
+ ],
+ [
+  "thm:obstruction",
+  {
+   "kind": "theorem",
+   "num": "17.2",
+   "file": "c17.html",
+   "anchor": "theorem-17-2",
+   "ord": 351,
+   "chap": "17",
+   "n": 2
+  }
+ ],
+ [
+  "warn:cochain-vs-class",
+  {
+   "kind": "warning",
+   "num": "17.3",
+   "file": "c17.html",
+   "anchor": "warning-17-3",
+   "ord": 352,
+   "chap": "17",
+   "n": 3
+  }
+ ],
+ [
+  "ex:one-cell",
+  {
+   "kind": "example",
+   "num": "17.4",
+   "file": "c17.html",
+   "anchor": "example-17-4",
+   "ord": 353,
+   "chap": "17",
+   "n": 4
+  }
+ ],
+ [
+  "exr:recover-extension-lemma",
+  {
+   "kind": "exercise",
+   "num": "17.5",
+   "file": "c17.html",
+   "anchor": "exercise-17-5",
+   "ord": 354,
+   "chap": "17",
+   "n": 5
+  }
+ ],
+ [
+  "exr:primary-em",
+  {
+   "kind": "exercise",
+   "num": "17.6",
+   "file": "c17.html",
+   "anchor": "exercise-17-6",
+   "ord": 355,
+   "chap": "17",
+   "n": 6
+  }
+ ],
+ [
+  "thm:lifting-obstruction",
+  {
+   "kind": "theorem",
+   "num": "17.7",
+   "file": "c17.html",
+   "anchor": "theorem-17-7",
+   "ord": 357,
+   "chap": "17",
+   "n": 7
+  }
+ ],
+ [
+  "ex:section-low-dim",
+  {
+   "kind": "example",
+   "num": "17.8",
+   "file": "c17.html",
+   "anchor": "example-17-8",
+   "ord": 358,
+   "chap": "17",
+   "n": 8
+  }
+ ],
+ [
+  "exr:cylinder-cells",
+  {
+   "kind": "exercise",
+   "num": "17.9",
+   "file": "c17.html",
+   "anchor": "exercise-17-9",
+   "ord": 359,
+   "chap": "17",
+   "n": 9
+  }
+ ],
+ [
+  "rem:existence-uniqueness",
+  {
+   "kind": "remark",
+   "num": "17.10",
+   "file": "c17.html",
+   "anchor": "remark-17-10",
+   "ord": 360,
+   "chap": "17",
+   "n": 10
+  }
+ ],
+ [
+  "def:principal",
+  {
+   "kind": "definition",
+   "num": "17.11",
+   "file": "c17.html",
+   "anchor": "definition-17-11",
+   "ord": 362,
+   "chap": "17",
+   "n": 11
+  }
+ ],
+ [
+  "ex:postnikov-principal",
+  {
+   "kind": "example",
+   "num": "17.12",
+   "file": "c17.html",
+   "anchor": "example-17-12",
+   "ord": 363,
+   "chap": "17",
+   "n": 12
+  }
+ ],
+ [
+  "warn:principal-not-trivial",
+  {
+   "kind": "warning",
+   "num": "17.13",
+   "file": "c17.html",
+   "anchor": "warning-17-13",
+   "ord": 364,
+   "chap": "17",
+   "n": 13
+  }
+ ],
+ [
+  "exr:omega-pullback",
+  {
+   "kind": "exercise",
+   "num": "17.14",
+   "file": "c17.html",
+   "anchor": "exercise-17-14",
+   "ord": 365,
+   "chap": "17",
+   "n": 14
+  }
+ ],
+ [
+  "exr:omega-em",
+  {
+   "kind": "exercise",
+   "num": "17.15",
+   "file": "c17.html",
+   "anchor": "exercise-17-15",
+   "ord": 366,
+   "chap": "17",
+   "n": 15
+  }
+ ],
+ [
+  "rem:looped-tower",
+  {
+   "kind": "remark",
+   "num": "17.16",
+   "file": "c17.html",
+   "anchor": "remark-17-16",
+   "ord": 367,
+   "chap": "17",
+   "n": 16
+  }
+ ],
+ [
+  "rem:obstruction-uses",
+  {
+   "kind": "remark",
+   "num": "17.17",
+   "file": "c17.html",
+   "anchor": "remark-17-17",
+   "ord": 369,
+   "chap": "17",
+   "n": 17
+  }
+ ],
+ [
+  "ch:steenrod",
+  {
+   "kind": "chapter",
+   "num": "18",
+   "file": "c18.html",
+   "anchor": "top",
+   "ord": 371,
+   "chap": "18",
+   "n": 18
+  }
+ ],
+ [
+  "def:cohomology-operation",
+  {
+   "kind": "definition",
+   "num": "18.1",
+   "file": "c18.html",
+   "anchor": "definition-18-1",
+   "ord": 373,
+   "chap": "18",
+   "n": 1
+  }
+ ],
+ [
+  "thm:operations-yoneda",
+  {
+   "kind": "theorem",
+   "num": "18.2",
+   "file": "c18.html",
+   "anchor": "theorem-18-2",
+   "ord": 374,
+   "chap": "18",
+   "n": 2
+  }
+ ],
+ [
+  "exr:yoneda-operations",
+  {
+   "kind": "exercise",
+   "num": "18.3",
+   "file": "c18.html",
+   "anchor": "exercise-18-3",
+   "ord": 375,
+   "chap": "18",
+   "n": 3
+  }
+ ],
+ [
+  "ex:degree-preserving",
+  {
+   "kind": "example",
+   "num": "18.4",
+   "file": "c18.html",
+   "anchor": "example-18-4",
+   "ord": 376,
+   "chap": "18",
+   "n": 4
+  }
+ ],
+ [
+  "exr:not-additive",
+  {
+   "kind": "exercise",
+   "num": "18.5",
+   "file": "c18.html",
+   "anchor": "exercise-18-5",
+   "ord": 377,
+   "chap": "18",
+   "n": 5
+  }
+ ],
+ [
+  "thm:steenrod-axioms",
+  {
+   "kind": "theorem",
+   "num": "18.6",
+   "file": "c18.html",
+   "anchor": "theorem-18-6",
+   "ord": 379,
+   "chap": "18",
+   "n": 6
+  }
+ ],
+ [
+  "ex:sq2-cp2",
+  {
+   "kind": "example",
+   "num": "18.7",
+   "file": "c18.html",
+   "anchor": "example-18-7",
+   "ord": 380,
+   "chap": "18",
+   "n": 7
+  }
+ ],
+ [
+  "warn:stability",
+  {
+   "kind": "warning",
+   "num": "18.8",
+   "file": "c18.html",
+   "anchor": "warning-18-8",
+   "ord": 381,
+   "chap": "18",
+   "n": 8
+  }
+ ],
+ [
+  "sec:ring-not-enough",
+  {
+   "kind": "section",
+   "num": "18.3",
+   "file": "c18.html",
+   "anchor": "sec-18-3",
+   "ord": 382,
+   "chap": "18",
+   "n": 3
+  }
+ ],
+ [
+  "thm:sigma-cp2",
+  {
+   "kind": "theorem",
+   "num": "18.9",
+   "file": "c18.html",
+   "anchor": "theorem-18-9",
+   "ord": 383,
+   "chap": "18",
+   "n": 9
+  }
+ ],
+ [
+  "rem:debt-paid",
+  {
+   "kind": "remark",
+   "num": "18.10",
+   "file": "c18.html",
+   "anchor": "remark-18-10",
+   "ord": 384,
+   "chap": "18",
+   "n": 10
+  }
+ ],
+ [
+  "exr:sq-on-suspension-general",
+  {
+   "kind": "exercise",
+   "num": "18.11",
+   "file": "c18.html",
+   "anchor": "exercise-18-11",
+   "ord": 385,
+   "chap": "18",
+   "n": 11
+  }
+ ],
+ [
+  "def:steenrod-algebra",
+  {
+   "kind": "definition",
+   "num": "18.12",
+   "file": "c18.html",
+   "anchor": "definition-18-12",
+   "ord": 387,
+   "chap": "18",
+   "n": 12
+  }
+ ],
+ [
+  "thm:adem",
+  {
+   "kind": "theorem",
+   "num": "18.13",
+   "file": "c18.html",
+   "anchor": "theorem-18-13",
+   "ord": 388,
+   "chap": "18",
+   "n": 13
+  }
+ ],
+ [
+  "ex:adem-sq1sq1",
+  {
+   "kind": "example",
+   "num": "18.14",
+   "file": "c18.html",
+   "anchor": "example-18-14",
+   "ord": 389,
+   "chap": "18",
+   "n": 14
+  }
+ ],
+ [
+  "rem:sq1-programme",
+  {
+   "kind": "remark",
+   "num": "18.15",
+   "file": "c18.html",
+   "anchor": "remark-18-15",
+   "ord": 390,
+   "chap": "18",
+   "n": 15
+  }
+ ],
+ [
+  "rem:steenrod-forward",
+  {
+   "kind": "remark",
+   "num": "18.16",
+   "file": "c18.html",
+   "anchor": "remark-18-16",
+   "ord": 391,
+   "chap": "18",
+   "n": 16
+  }
+ ],
+ [
+  "ch:rationalfirst",
+  {
+   "kind": "chapter",
+   "num": "19",
+   "file": "c19.html",
+   "anchor": "top",
+   "ord": 393,
+   "chap": "19",
+   "n": 19
+  }
+ ],
+ [
+  "thm:em-rational",
+  {
+   "kind": "theorem",
+   "num": "19.1",
+   "file": "c19.html",
+   "anchor": "theorem-19-1",
+   "ord": 395,
+   "chap": "19",
+   "n": 1
+  }
+ ],
+ [
+  "ex:kz2-rational",
+  {
+   "kind": "example",
+   "num": "19.2",
+   "file": "c19.html",
+   "anchor": "example-19-2",
+   "ord": 396,
+   "chap": "19",
+   "n": 2
+  }
+ ],
+ [
+  "exr:kz3-rational",
+  {
+   "kind": "exercise",
+   "num": "19.3",
+   "file": "c19.html",
+   "anchor": "exercise-19-3",
+   "ord": 397,
+   "chap": "19",
+   "n": 3
+  }
+ ],
+ [
+  "exr:loop-even-sphere",
+  {
+   "kind": "exercise",
+   "num": "19.4",
+   "file": "c19.html",
+   "anchor": "exercise-19-4",
+   "ord": 398,
+   "chap": "19",
+   "n": 4
+  }
+ ],
+ [
+  "warn:odd-even-loops",
+  {
+   "kind": "warning",
+   "num": "19.5",
+   "file": "c19.html",
+   "anchor": "warning-19-5",
+   "ord": 399,
+   "chap": "19",
+   "n": 5
+  }
+ ],
+ [
+  "sec:whitehead-product",
+  {
+   "kind": "section",
+   "num": "19.2",
+   "file": "c19.html",
+   "anchor": "sec-19-2",
+   "ord": 400,
+   "chap": "19",
+   "n": 2
+  }
+ ],
+ [
+  "def:whitehead-product",
+  {
+   "kind": "definition",
+   "num": "19.6",
+   "file": "c19.html",
+   "anchor": "definition-19-6",
+   "ord": 401,
+   "chap": "19",
+   "n": 6
+  }
+ ],
+ [
+  "exr:top-cell-attaching",
+  {
+   "kind": "exercise",
+   "num": "19.7",
+   "file": "c19.html",
+   "anchor": "exercise-19-7",
+   "ord": 402,
+   "chap": "19",
+   "n": 7
+  }
+ ],
+ [
+  "exr:square-of-sum",
+  {
+   "kind": "exercise",
+   "num": "19.8",
+   "file": "c19.html",
+   "anchor": "exercise-19-8",
+   "ord": 403,
+   "chap": "19",
+   "n": 8
+  }
+ ],
+ [
+  "rem:whitehead-square",
+  {
+   "kind": "remark",
+   "num": "19.9",
+   "file": "c19.html",
+   "anchor": "remark-19-9",
+   "ord": 404,
+   "chap": "19",
+   "n": 9
+  }
+ ],
+ [
+  "thm:rational-spheres",
+  {
+   "kind": "theorem",
+   "num": "19.10",
+   "file": "c19.html",
+   "anchor": "theorem-19-10",
+   "ord": 406,
+   "chap": "19",
+   "n": 10
+  }
+ ],
+ [
+  "warn:serre-unproved",
+  {
+   "kind": "warning",
+   "num": "19.11",
+   "file": "c19.html",
+   "anchor": "warning-19-11",
+   "ord": 407,
+   "chap": "19",
+   "n": 11
+  }
+ ],
+ [
+  "rem:extra-class",
+  {
+   "kind": "remark",
+   "num": "19.12",
+   "file": "c19.html",
+   "anchor": "remark-19-12",
+   "ord": 408,
+   "chap": "19",
+   "n": 12
+  }
+ ],
+ [
+  "ch:kan",
+  {
+   "kind": "chapter",
+   "num": "20",
+   "file": "c20.html",
+   "anchor": "top",
+   "ord": 410,
+   "chap": "20",
+   "n": 20
+  }
+ ],
+ [
+  "def:adjunction",
+  {
+   "kind": "definition",
+   "num": "20.1",
+   "file": "c20.html",
+   "anchor": "definition-20-1",
+   "ord": 412,
+   "chap": "20",
+   "n": 1
+  }
+ ],
+ [
+  "exr:left-adjoints-colimits",
+  {
+   "kind": "exercise",
+   "num": "20.2",
+   "file": "c20.html",
+   "anchor": "exercise-20-2",
+   "ord": 413,
+   "chap": "20",
+   "n": 2
+  }
+ ],
+ [
+  "warn:left-adjoint-products",
+  {
+   "kind": "warning",
+   "num": "20.3",
+   "file": "c20.html",
+   "anchor": "warning-20-3",
+   "ord": 414,
+   "chap": "20",
+   "n": 3
+  }
+ ],
+ [
+  "def:lan",
+  {
+   "kind": "definition",
+   "num": "20.4",
+   "file": "c20.html",
+   "anchor": "definition-20-4",
+   "ord": 416,
+   "chap": "20",
+   "n": 4
+  }
+ ],
+ [
+  "prop:lan-formula",
+  {
+   "kind": "proposition",
+   "num": "20.5",
+   "file": "c20.html",
+   "anchor": "proposition-20-5",
+   "ord": 417,
+   "chap": "20",
+   "n": 5
+  }
+ ],
+ [
+  "ex:colimit-as-lan",
+  {
+   "kind": "example",
+   "num": "20.6",
+   "file": "c20.html",
+   "anchor": "example-20-6",
+   "ord": 418,
+   "chap": "20",
+   "n": 6
+  }
+ ],
+ [
+  "def:absolute-lan",
+  {
+   "kind": "definition",
+   "num": "20.7",
+   "file": "c20.html",
+   "anchor": "definition-20-7",
+   "ord": 419,
+   "chap": "20",
+   "n": 7
+  }
+ ],
+ [
+  "exr:absolute-composite",
+  {
+   "kind": "exercise",
+   "num": "20.8",
+   "file": "c20.html",
+   "anchor": "exercise-20-8",
+   "ord": 420,
+   "chap": "20",
+   "n": 8
+  }
+ ],
+ [
+  "thm:density",
+  {
+   "kind": "theorem",
+   "num": "20.9",
+   "file": "c20.html",
+   "anchor": "theorem-20-9",
+   "ord": 422,
+   "chap": "20",
+   "n": 9
+  }
+ ],
+ [
+  "exr:prove-density",
+  {
+   "kind": "exercise",
+   "num": "20.10",
+   "file": "c20.html",
+   "anchor": "exercise-20-10",
+   "ord": 423,
+   "chap": "20",
+   "n": 10
+  }
+ ],
+ [
+  "rem:coend",
+  {
+   "kind": "remark",
+   "num": "20.11",
+   "file": "c20.html",
+   "anchor": "remark-20-11",
+   "ord": 424,
+   "chap": "20",
+   "n": 11
+  }
+ ],
+ [
+  "sec:nerve-realisation",
+  {
+   "kind": "section",
+   "num": "20.4",
+   "file": "c20.html",
+   "anchor": "sec-20-4",
+   "ord": 425,
+   "chap": "20",
+   "n": 4
+  }
+ ],
+ [
+  "con:nerve-realisation",
+  {
+   "kind": "construction",
+   "num": "20.12",
+   "file": "c20.html",
+   "anchor": "construction-20-12",
+   "ord": 426,
+   "chap": "20",
+   "n": 12
+  }
+ ],
+ [
+  "ex:realisation",
+  {
+   "kind": "example",
+   "num": "20.13",
+   "file": "c20.html",
+   "anchor": "example-20-13",
+   "ord": 427,
+   "chap": "20",
+   "n": 13
+  }
+ ],
+ [
+  "ex:nerve",
+  {
+   "kind": "example",
+   "num": "20.14",
+   "file": "c20.html",
+   "anchor": "example-20-14",
+   "ord": 428,
+   "chap": "20",
+   "n": 14
+  }
+ ],
+ [
+  "ex:coproduct-case",
+  {
+   "kind": "example",
+   "num": "20.15",
+   "file": "c20.html",
+   "anchor": "example-20-15",
+   "ord": 429,
+   "chap": "20",
+   "n": 15
+  }
+ ],
+ [
+  "rem:adjunction-programme",
+  {
+   "kind": "remark",
+   "num": "20.16",
+   "file": "c20.html",
+   "anchor": "remark-20-16",
+   "ord": 430,
+   "chap": "20",
+   "n": 16
+  }
+ ],
+ [
+  "exr:realisation-preserves-colimits",
+  {
+   "kind": "exercise",
+   "num": "20.17",
+   "file": "c20.html",
+   "anchor": "exercise-20-17",
+   "ord": 431,
+   "chap": "20",
+   "n": 17
+  }
+ ],
+ [
+  "exr:classifying-space",
+  {
+   "kind": "exercise",
+   "num": "20.18",
+   "file": "c20.html",
+   "anchor": "exercise-20-18",
+   "ord": 432,
+   "chap": "20",
+   "n": 18
+  }
+ ],
+ [
+  "ch:holim",
+  {
+   "kind": "chapter",
+   "num": "21",
+   "file": "c21.html",
+   "anchor": "top",
+   "ord": 434,
+   "chap": "21",
+   "n": 21
+  }
+ ],
+ [
+  "ex:pushout-fails",
+  {
+   "kind": "example",
+   "num": "21.1",
+   "file": "c21.html",
+   "anchor": "example-21-1",
+   "ord": 436,
+   "chap": "21",
+   "n": 1
+  }
+ ],
+ [
+  "rem:why-fails",
+  {
+   "kind": "remark",
+   "num": "21.2",
+   "file": "c21.html",
+   "anchor": "remark-21-2",
+   "ord": 437,
+   "chap": "21",
+   "n": 2
+  }
+ ],
+ [
+  "def:homotopy-pushout",
+  {
+   "kind": "definition",
+   "num": "21.3",
+   "file": "c21.html",
+   "anchor": "definition-21-3",
+   "ord": 439,
+   "chap": "21",
+   "n": 3
+  }
+ ],
+ [
+  "thm:hopushout-invariance",
+  {
+   "kind": "theorem",
+   "num": "21.4",
+   "file": "c21.html",
+   "anchor": "theorem-21-4",
+   "ord": 440,
+   "chap": "21",
+   "n": 4
+  }
+ ],
+ [
+  "ex:suspension-as-hopushout",
+  {
+   "kind": "example",
+   "num": "21.5",
+   "file": "c21.html",
+   "anchor": "example-21-5",
+   "ord": 441,
+   "chap": "21",
+   "n": 5
+  }
+ ],
+ [
+  "ex:cylinder-as-hopushout",
+  {
+   "kind": "example",
+   "num": "21.6",
+   "file": "c21.html",
+   "anchor": "example-21-6",
+   "ord": 442,
+   "chap": "21",
+   "n": 6
+  }
+ ],
+ [
+  "exr:cofibration-strict-equals-homotopy",
+  {
+   "kind": "exercise",
+   "num": "21.7",
+   "file": "c21.html",
+   "anchor": "exercise-21-7",
+   "ord": 443,
+   "chap": "21",
+   "n": 7
+  }
+ ],
+ [
+  "rem:cone-case",
+  {
+   "kind": "remark",
+   "num": "21.8",
+   "file": "c21.html",
+   "anchor": "remark-21-8",
+   "ord": 444,
+   "chap": "21",
+   "n": 8
+  }
+ ],
+ [
+  "def:homotopy-fibre",
+  {
+   "kind": "definition",
+   "num": "21.9",
+   "file": "c21.html",
+   "anchor": "definition-21-9",
+   "ord": 446,
+   "chap": "21",
+   "n": 9
+  }
+ ],
+ [
+  "prop:hofibre-fibration",
+  {
+   "kind": "proposition",
+   "num": "21.10",
+   "file": "c21.html",
+   "anchor": "proposition-21-10",
+   "ord": 447,
+   "chap": "21",
+   "n": 10
+  }
+ ],
+ [
+  "ex:path-loop-again",
+  {
+   "kind": "example",
+   "num": "21.11",
+   "file": "c21.html",
+   "anchor": "example-21-11",
+   "ord": 448,
+   "chap": "21",
+   "n": 11
+  }
+ ],
+ [
+  "exr:strict-vs-homotopy-pullback",
+  {
+   "kind": "exercise",
+   "num": "21.12",
+   "file": "c21.html",
+   "anchor": "exercise-21-12",
+   "ord": 449,
+   "chap": "21",
+   "n": 12
+  }
+ ],
+ [
+  "rem:general-hopullback",
+  {
+   "kind": "remark",
+   "num": "21.13",
+   "file": "c21.html",
+   "anchor": "remark-21-13",
+   "ord": 450,
+   "chap": "21",
+   "n": 13
+  }
+ ],
+ [
+  "prop:fibration-exact",
+  {
+   "kind": "proposition",
+   "num": "21.14",
+   "file": "c21.html",
+   "anchor": "proposition-21-14",
+   "ord": 452,
+   "chap": "21",
+   "n": 14
+  }
+ ],
+ [
+  "warn:pointed-sets",
+  {
+   "kind": "warning",
+   "num": "21.15",
+   "file": "c21.html",
+   "anchor": "warning-21-15",
+   "ord": 453,
+   "chap": "21",
+   "n": 15
+  }
+ ],
+ [
+  "rem:puppe",
+  {
+   "kind": "remark",
+   "num": "21.16",
+   "file": "c21.html",
+   "anchor": "remark-21-16",
+   "ord": 454,
+   "chap": "21",
+   "n": 16
+  }
+ ],
+ [
+  "def:general-hocolim",
+  {
+   "kind": "definition",
+   "num": "21.17",
+   "file": "c21.html",
+   "anchor": "definition-21-17",
+   "ord": 456,
+   "chap": "21",
+   "n": 17
+  }
+ ],
+ [
+  "ex:hocolim-pushout",
+  {
+   "kind": "example",
+   "num": "21.18",
+   "file": "c21.html",
+   "anchor": "example-21-18",
+   "ord": 457,
+   "chap": "21",
+   "n": 18
+  }
+ ],
+ [
+  "rem:hocolim-forward",
+  {
+   "kind": "remark",
+   "num": "21.19",
+   "file": "c21.html",
+   "anchor": "remark-21-19",
+   "ord": 458,
+   "chap": "21",
+   "n": 19
+  }
+ ],
+ [
+  "ch:model",
+  {
+   "kind": "chapter",
+   "num": "22",
+   "file": "c22.html",
+   "anchor": "top",
+   "ord": 460,
+   "chap": "22",
+   "n": 22
+  }
+ ],
+ [
+  "def:lifting",
+  {
+   "kind": "definition",
+   "num": "22.1",
+   "file": "c22.html",
+   "anchor": "definition-22-1",
+   "ord": 462,
+   "chap": "22",
+   "n": 1
+  }
+ ],
+ [
+  "exr:retract-argument",
+  {
+   "kind": "exercise",
+   "num": "22.2",
+   "file": "c22.html",
+   "anchor": "exercise-22-2",
+   "ord": 463,
+   "chap": "22",
+   "n": 2
+  }
+ ],
+ [
+  "ex:wfs-set",
+  {
+   "kind": "example",
+   "num": "22.3",
+   "file": "c22.html",
+   "anchor": "example-22-3",
+   "ord": 464,
+   "chap": "22",
+   "n": 3
+  }
+ ],
+ [
+  "def:model-category",
+  {
+   "kind": "definition",
+   "num": "22.4",
+   "file": "c22.html",
+   "anchor": "definition-22-4",
+   "ord": 466,
+   "chap": "22",
+   "n": 4
+  }
+ ],
+ [
+  "ex:two-structures-top",
+  {
+   "kind": "example",
+   "num": "22.5",
+   "file": "c22.html",
+   "anchor": "example-22-5",
+   "ord": 467,
+   "chap": "22",
+   "n": 5
+  }
+ ],
+ [
+  "ex:warsaw",
+  {
+   "kind": "example",
+   "num": "22.6",
+   "file": "c22.html",
+   "anchor": "example-22-6",
+   "ord": 468,
+   "chap": "22",
+   "n": 6
+  }
+ ],
+ [
+  "exr:cofibrations-pushout",
+  {
+   "kind": "exercise",
+   "num": "22.7",
+   "file": "c22.html",
+   "anchor": "exercise-22-7",
+   "ord": 469,
+   "chap": "22",
+   "n": 7
+  }
+ ],
+ [
+  "sec:derived",
+  {
+   "kind": "section",
+   "num": "22.3",
+   "file": "c22.html",
+   "anchor": "sec-22-3",
+   "ord": 470,
+   "chap": "22",
+   "n": 3
+  }
+ ],
+ [
+  "thm:ken-brown",
+  {
+   "kind": "theorem",
+   "num": "22.8",
+   "file": "c22.html",
+   "anchor": "theorem-22-8",
+   "ord": 471,
+   "chap": "22",
+   "n": 8
+  }
+ ],
+ [
+  "exr:ken-brown",
+  {
+   "kind": "exercise",
+   "num": "22.9",
+   "file": "c22.html",
+   "anchor": "exercise-22-9",
+   "ord": 472,
+   "chap": "22",
+   "n": 9
+  }
+ ],
+ [
+  "def:derived-functor",
+  {
+   "kind": "definition",
+   "num": "22.10",
+   "file": "c22.html",
+   "anchor": "definition-22-10",
+   "ord": 473,
+   "chap": "22",
+   "n": 10
+  }
+ ],
+ [
+  "thm:derived-exists",
+  {
+   "kind": "theorem",
+   "num": "22.11",
+   "file": "c22.html",
+   "anchor": "theorem-22-11",
+   "ord": 474,
+   "chap": "22",
+   "n": 11
+  }
+ ],
+ [
+  "warn:derived-not-construction",
+  {
+   "kind": "warning",
+   "num": "22.12",
+   "file": "c22.html",
+   "anchor": "warning-22-12",
+   "ord": 475,
+   "chap": "22",
+   "n": 12
+  }
+ ],
+ [
+  "rem:derived-adjunction",
+  {
+   "kind": "remark",
+   "num": "22.13",
+   "file": "c22.html",
+   "anchor": "remark-22-13",
+   "ord": 476,
+   "chap": "22",
+   "n": 13
+  }
+ ],
+ [
+  "def:quillen-equivalence",
+  {
+   "kind": "definition",
+   "num": "22.14",
+   "file": "c22.html",
+   "anchor": "definition-22-14",
+   "ord": 478,
+   "chap": "22",
+   "n": 14
+  }
+ ],
+ [
+  "ex:sset-top-quillen",
+  {
+   "kind": "example",
+   "num": "22.15",
+   "file": "c22.html",
+   "anchor": "example-22-15",
+   "ord": 479,
+   "chap": "22",
+   "n": 15
+  }
+ ],
+ [
+  "rem:quillen-criterion",
+  {
+   "kind": "remark",
+   "num": "22.16",
+   "file": "c22.html",
+   "anchor": "remark-22-16",
+   "ord": 480,
+   "chap": "22",
+   "n": 16
+  }
+ ],
+ [
+  "rem:mixing",
+  {
+   "kind": "remark",
+   "num": "22.17",
+   "file": "c22.html",
+   "anchor": "remark-22-17",
+   "ord": 481,
+   "chap": "22",
+   "n": 17
+  }
+ ],
+ [
+  "ch:quasi",
+  {
+   "kind": "chapter",
+   "num": "23",
+   "file": "c23.html",
+   "anchor": "top",
+   "ord": 483,
+   "chap": "23",
+   "n": 23
+  }
+ ],
+ [
+  "def:simplicial-set",
+  {
+   "kind": "definition",
+   "num": "23.1",
+   "file": "c23.html",
+   "anchor": "definition-23-1",
+   "ord": 485,
+   "chap": "23",
+   "n": 1
+  }
+ ],
+ [
+  "ex:sing-and-nerve",
+  {
+   "kind": "example",
+   "num": "23.2",
+   "file": "c23.html",
+   "anchor": "example-23-2",
+   "ord": 486,
+   "chap": "23",
+   "n": 2
+  }
+ ],
+ [
+  "def:kan-complex",
+  {
+   "kind": "definition",
+   "num": "23.3",
+   "file": "c23.html",
+   "anchor": "definition-23-3",
+   "ord": 488,
+   "chap": "23",
+   "n": 3
+  }
+ ],
+ [
+  "exr:sing-kan",
+  {
+   "kind": "exercise",
+   "num": "23.4",
+   "file": "c23.html",
+   "anchor": "exercise-23-4",
+   "ord": 489,
+   "chap": "23",
+   "n": 4
+  }
+ ],
+ [
+  "thm:simplicial-groups-kan",
+  {
+   "kind": "theorem",
+   "num": "23.5",
+   "file": "c23.html",
+   "anchor": "theorem-23-5",
+   "ord": 490,
+   "chap": "23",
+   "n": 5
+  }
+ ],
+ [
+  "rem:fibrancy-for-free",
+  {
+   "kind": "remark",
+   "num": "23.6",
+   "file": "c23.html",
+   "anchor": "remark-23-6",
+   "ord": 491,
+   "chap": "23",
+   "n": 6
+  }
+ ],
+ [
+  "ex:delta1-not-kan",
+  {
+   "kind": "example",
+   "num": "23.7",
+   "file": "c23.html",
+   "anchor": "example-23-7",
+   "ord": 492,
+   "chap": "23",
+   "n": 7
+  }
+ ],
+ [
+  "def:quasi-category",
+  {
+   "kind": "definition",
+   "num": "23.8",
+   "file": "c23.html",
+   "anchor": "definition-23-8",
+   "ord": 494,
+   "chap": "23",
+   "n": 8
+  }
+ ],
+ [
+  "ex:nerve-quasi",
+  {
+   "kind": "example",
+   "num": "23.9",
+   "file": "c23.html",
+   "anchor": "example-23-9",
+   "ord": 495,
+   "chap": "23",
+   "n": 9
+  }
+ ],
+ [
+  "rem:composition",
+  {
+   "kind": "remark",
+   "num": "23.10",
+   "file": "c23.html",
+   "anchor": "remark-23-10",
+   "ord": 496,
+   "chap": "23",
+   "n": 10
+  }
+ ],
+ [
+  "exr:nerve-fully-faithful",
+  {
+   "kind": "exercise",
+   "num": "23.11",
+   "file": "c23.html",
+   "anchor": "exercise-23-11",
+   "ord": 497,
+   "chap": "23",
+   "n": 11
+  }
+ ],
+ [
+  "exr:h-of-nerve",
+  {
+   "kind": "exercise",
+   "num": "23.12",
+   "file": "c23.html",
+   "anchor": "exercise-23-12",
+   "ord": 498,
+   "chap": "23",
+   "n": 12
+  }
+ ],
+ [
+  "rem:h-and-N",
+  {
+   "kind": "remark",
+   "num": "23.13",
+   "file": "c23.html",
+   "anchor": "remark-23-13",
+   "ord": 499,
+   "chap": "23",
+   "n": 13
+  }
+ ],
+ [
+  "sec:filling-is-obstruction",
+  {
+   "kind": "section",
+   "num": "23.4",
+   "file": "c23.html",
+   "anchor": "sec-23-4",
+   "ord": 500,
+   "chap": "23",
+   "n": 4
+  }
+ ],
+ [
+  "rem:promise-kept",
+  {
+   "kind": "remark",
+   "num": "23.14",
+   "file": "c23.html",
+   "anchor": "remark-23-14",
+   "ord": 501,
+   "chap": "23",
+   "n": 14
+  }
+ ],
+ [
+  "def:left-right-fibration",
+  {
+   "kind": "definition",
+   "num": "23.15",
+   "file": "c23.html",
+   "anchor": "definition-23-15",
+   "ord": 503,
+   "chap": "23",
+   "n": 15
+  }
+ ],
+ [
+  "warn:handedness",
+  {
+   "kind": "warning",
+   "num": "23.16",
+   "file": "c23.html",
+   "anchor": "warning-23-16",
+   "ord": 504,
+   "chap": "23",
+   "n": 16
+  }
+ ],
+ [
+  "def:iso-in-quasicat",
+  {
+   "kind": "definition",
+   "num": "23.17",
+   "file": "c23.html",
+   "anchor": "definition-23-17",
+   "ord": 505,
+   "chap": "23",
+   "n": 17
+  }
+ ],
+ [
+  "rem:conservativity",
+  {
+   "kind": "remark",
+   "num": "23.18",
+   "file": "c23.html",
+   "anchor": "remark-23-18",
+   "ord": 506,
+   "chap": "23",
+   "n": 18
+  }
+ ],
+ [
+  "ch:sullivan",
+  {
+   "kind": "chapter",
+   "num": "24",
+   "file": "c24.html",
+   "anchor": "top",
+   "ord": 508,
+   "chap": "24",
+   "n": 24
+  }
+ ],
+ [
+  "thm:apl",
+  {
+   "kind": "theorem",
+   "num": "24.1",
+   "file": "c24.html",
+   "anchor": "theorem-24-1",
+   "ord": 510,
+   "chap": "24",
+   "n": 1
+  }
+ ],
+ [
+  "def:sullivan",
+  {
+   "kind": "definition",
+   "num": "24.2",
+   "file": "c24.html",
+   "anchor": "definition-24-2",
+   "ord": 511,
+   "chap": "24",
+   "n": 2
+  }
+ ],
+ [
+  "warn:free-not-sullivan",
+  {
+   "kind": "warning",
+   "num": "24.3",
+   "file": "c24.html",
+   "anchor": "warning-24-3",
+   "ord": 512,
+   "chap": "24",
+   "n": 3
+  }
+ ],
+ [
+  "thm:minimal-model",
+  {
+   "kind": "theorem",
+   "num": "24.4",
+   "file": "c24.html",
+   "anchor": "theorem-24-4",
+   "ord": 513,
+   "chap": "24",
+   "n": 4
+  }
+ ],
+ [
+  "ex:sphere-models",
+  {
+   "kind": "example",
+   "num": "24.5",
+   "file": "c24.html",
+   "anchor": "example-24-5",
+   "ord": 514,
+   "chap": "24",
+   "n": 5
+  }
+ ],
+ [
+  "exr:sphere-model-cohomology",
+  {
+   "kind": "exercise",
+   "num": "24.6",
+   "file": "c24.html",
+   "anchor": "exercise-24-6",
+   "ord": 515,
+   "chap": "24",
+   "n": 6
+  }
+ ],
+ [
+  "rem:parity-explained",
+  {
+   "kind": "remark",
+   "num": "24.7",
+   "file": "c24.html",
+   "anchor": "remark-24-7",
+   "ord": 516,
+   "chap": "24",
+   "n": 7
+  }
+ ],
+ [
+  "def:relative-sullivan",
+  {
+   "kind": "definition",
+   "num": "24.8",
+   "file": "c24.html",
+   "anchor": "definition-24-8",
+   "ord": 518,
+   "chap": "24",
+   "n": 8
+  }
+ ],
+ [
+  "exr:koszul-regular",
+  {
+   "kind": "exercise",
+   "num": "24.9",
+   "file": "c24.html",
+   "anchor": "exercise-24-9",
+   "ord": 519,
+   "chap": "24",
+   "n": 9
+  }
+ ],
+ [
+  "warn:cofibrancy-quotient",
+  {
+   "kind": "warning",
+   "num": "24.10",
+   "file": "c24.html",
+   "anchor": "warning-24-10",
+   "ord": 520,
+   "chap": "24",
+   "n": 10
+  }
+ ],
+ [
+  "rem:relative-programme",
+  {
+   "kind": "remark",
+   "num": "24.11",
+   "file": "c24.html",
+   "anchor": "remark-24-11",
+   "ord": 521,
+   "chap": "24",
+   "n": 11
+  }
+ ],
+ [
+  "def:spatial-realisation",
+  {
+   "kind": "definition",
+   "num": "24.12",
+   "file": "c24.html",
+   "anchor": "definition-24-12",
+   "ord": 523,
+   "chap": "24",
+   "n": 12
+  }
+ ],
+ [
+  "prop:realisation-kan",
+  {
+   "kind": "proposition",
+   "num": "24.13",
+   "file": "c24.html",
+   "anchor": "proposition-24-13",
+   "ord": 524,
+   "chap": "24",
+   "n": 13
+  }
+ ],
+ [
+  "rem:same-fibrancy-argument",
+  {
+   "kind": "remark",
+   "num": "24.14",
+   "file": "c24.html",
+   "anchor": "remark-24-14",
+   "ord": 525,
+   "chap": "24",
+   "n": 14
+  }
+ ],
+ [
+  "ex:realise-one-generator",
+  {
+   "kind": "example",
+   "num": "24.15",
+   "file": "c24.html",
+   "anchor": "example-24-15",
+   "ord": 526,
+   "chap": "24",
+   "n": 15
+  }
+ ],
+ [
+  "thm:sullivan-homotopy",
+  {
+   "kind": "theorem",
+   "num": "24.16",
+   "file": "c24.html",
+   "anchor": "theorem-24-16",
+   "ord": 527,
+   "chap": "24",
+   "n": 16
+  }
+ ],
+ [
+  "rem:sullivan-homotopy-programme",
+  {
+   "kind": "remark",
+   "num": "24.17",
+   "file": "c24.html",
+   "anchor": "remark-24-17",
+   "ord": 528,
+   "chap": "24",
+   "n": 17
+  }
+ ],
+ [
+  "ex:spheres-final",
+  {
+   "kind": "example",
+   "num": "24.18",
+   "file": "c24.html",
+   "anchor": "example-24-18",
+   "ord": 529,
+   "chap": "24",
+   "n": 18
+  }
+ ],
+ [
+  "ch:operads",
+  {
+   "kind": "chapter",
+   "num": "25",
+   "file": "c25.html",
+   "anchor": "top",
+   "ord": 531,
+   "chap": "25",
+   "n": 25
+  }
+ ],
+ [
+  "def:operad",
+  {
+   "kind": "definition",
+   "num": "25.1",
+   "file": "c25.html",
+   "anchor": "definition-25-1",
+   "ord": 533,
+   "chap": "25",
+   "n": 1
+  }
+ ],
+ [
+  "ex:ass-com",
+  {
+   "kind": "example",
+   "num": "25.2",
+   "file": "c25.html",
+   "anchor": "example-25-2",
+   "ord": 534,
+   "chap": "25",
+   "n": 2
+  }
+ ],
+ [
+  "ex:ass-to-com",
+  {
+   "kind": "example",
+   "num": "25.3",
+   "file": "c25.html",
+   "anchor": "example-25-3",
+   "ord": 535,
+   "chap": "25",
+   "n": 3
+  }
+ ],
+ [
+  "warn:not-operad-morphism",
+  {
+   "kind": "warning",
+   "num": "25.4",
+   "file": "c25.html",
+   "anchor": "warning-25-4",
+   "ord": 536,
+   "chap": "25",
+   "n": 4
+  }
+ ],
+ [
+  "def:homotopy-lie",
+  {
+   "kind": "definition",
+   "num": "25.5",
+   "file": "c25.html",
+   "anchor": "definition-25-5",
+   "ord": 538,
+   "chap": "25",
+   "n": 5
+  }
+ ],
+ [
+  "ex:lie-sphere",
+  {
+   "kind": "example",
+   "num": "25.6",
+   "file": "c25.html",
+   "anchor": "example-25-6",
+   "ord": 539,
+   "chap": "25",
+   "n": 6
+  }
+ ],
+ [
+  "thm:milnor-moore",
+  {
+   "kind": "theorem",
+   "num": "25.7",
+   "file": "c25.html",
+   "anchor": "theorem-25-7",
+   "ord": 540,
+   "chap": "25",
+   "n": 7
+  }
+ ],
+ [
+  "prop:free-lie",
+  {
+   "kind": "proposition",
+   "num": "25.8",
+   "file": "c25.html",
+   "anchor": "proposition-25-8",
+   "ord": 541,
+   "chap": "25",
+   "n": 8
+  }
+ ],
+ [
+  "exr:ul-is-tensor",
+  {
+   "kind": "exercise",
+   "num": "25.9",
+   "file": "c25.html",
+   "anchor": "exercise-25-9",
+   "ord": 542,
+   "chap": "25",
+   "n": 9
+  }
+ ],
+ [
+  "thm:pbw",
+  {
+   "kind": "theorem",
+   "num": "25.10",
+   "file": "c25.html",
+   "anchor": "theorem-25-10",
+   "ord": 543,
+   "chap": "25",
+   "n": 10
+  }
+ ],
+ [
+  "warn:pbw-parity",
+  {
+   "kind": "warning",
+   "num": "25.11",
+   "file": "c25.html",
+   "anchor": "warning-25-11",
+   "ord": 544,
+   "chap": "25",
+   "n": 11
+  }
+ ],
+ [
+  "rem:counting-programme",
+  {
+   "kind": "remark",
+   "num": "25.12",
+   "file": "c25.html",
+   "anchor": "remark-25-12",
+   "ord": 545,
+   "chap": "25",
+   "n": 12
+  }
+ ],
+ [
+  "def:elliptic-hyperbolic",
+  {
+   "kind": "definition",
+   "num": "25.13",
+   "file": "c25.html",
+   "anchor": "definition-25-13",
+   "ord": 547,
+   "chap": "25",
+   "n": 13
+  }
+ ],
+ [
+  "ex:elliptic-examples",
+  {
+   "kind": "example",
+   "num": "25.14",
+   "file": "c25.html",
+   "anchor": "example-25-14",
+   "ord": 548,
+   "chap": "25",
+   "n": 14
+  }
+ ],
+ [
+  "thm:dichotomy",
+  {
+   "kind": "theorem",
+   "num": "25.15",
+   "file": "c25.html",
+   "anchor": "theorem-25-15",
+   "ord": 549,
+   "chap": "25",
+   "n": 15
+  }
+ ],
+ [
+  "rem:hyperbolic-programme",
+  {
+   "kind": "remark",
+   "num": "25.16",
+   "file": "c25.html",
+   "anchor": "remark-25-16",
+   "ord": 550,
+   "chap": "25",
+   "n": 16
+  }
+ ],
+ [
+  "rem:operads-forward",
+  {
+   "kind": "remark",
+   "num": "25.17",
+   "file": "c25.html",
+   "anchor": "remark-25-17",
+   "ord": 551,
+   "chap": "25",
+   "n": 17
+  }
+ ],
+ [
+  "ch:charclasses",
+  {
+   "kind": "chapter",
+   "num": "26",
+   "file": "c26.html",
+   "anchor": "top",
+   "ord": 553,
+   "chap": "26",
+   "n": 26
+  }
+ ],
+ [
+  "def:euler-class",
+  {
+   "kind": "definition",
+   "num": "26.1",
+   "file": "c26.html",
+   "anchor": "definition-26-1",
+   "ord": 555,
+   "chap": "26",
+   "n": 1
+  }
+ ],
+ [
+  "prop:euler-properties",
+  {
+   "kind": "proposition",
+   "num": "26.2",
+   "file": "c26.html",
+   "anchor": "proposition-26-2",
+   "ord": 556,
+   "chap": "26",
+   "n": 2
+  }
+ ],
+ [
+  "ex:euler-line",
+  {
+   "kind": "example",
+   "num": "26.3",
+   "file": "c26.html",
+   "anchor": "example-26-3",
+   "ord": 557,
+   "chap": "26",
+   "n": 3
+  }
+ ],
+ [
+  "exr:euler-tensor",
+  {
+   "kind": "exercise",
+   "num": "26.4",
+   "file": "c26.html",
+   "anchor": "exercise-26-4",
+   "ord": 558,
+   "chap": "26",
+   "n": 4
+  }
+ ],
+ [
+  "exr:odd-rank-torsion",
+  {
+   "kind": "exercise",
+   "num": "26.5",
+   "file": "c26.html",
+   "anchor": "exercise-26-5",
+   "ord": 559,
+   "chap": "26",
+   "n": 5
+  }
+ ],
+ [
+  "ex:chern-from-projective",
+  {
+   "kind": "example",
+   "num": "26.6",
+   "file": "c26.html",
+   "anchor": "example-26-6",
+   "ord": 560,
+   "chap": "26",
+   "n": 6
+  }
+ ],
+ [
+  "sec:triangle",
+  {
+   "kind": "section",
+   "num": "26.2",
+   "file": "c26.html",
+   "anchor": "sec-26-2",
+   "ord": 561,
+   "chap": "26",
+   "n": 2
+  }
+ ],
+ [
+  "eq:wu",
+  {
+   "kind": "equation",
+   "num": "26.1",
+   "file": "c26.html",
+   "anchor": "eq-26-1",
+   "ord": 562,
+   "chap": "26",
+   "n": 1
+  }
+ ],
+ [
+  "exr:wu-rpn",
+  {
+   "kind": "exercise",
+   "num": "26.7",
+   "file": "c26.html",
+   "anchor": "exercise-26-7",
+   "ord": 563,
+   "chap": "26",
+   "n": 7
+  }
+ ],
+ [
+  "rem:closing-triangle",
+  {
+   "kind": "remark",
+   "num": "26.8",
+   "file": "c26.html",
+   "anchor": "remark-26-8",
+   "ord": 564,
+   "chap": "26",
+   "n": 8
+  }
+ ],
+ [
+  "ex:rank-one-realisable",
+  {
+   "kind": "example",
+   "num": "26.9",
+   "file": "c26.html",
+   "anchor": "example-26-9",
+   "ord": 566,
+   "chap": "26",
+   "n": 9
+  }
+ ],
+ [
+  "rem:higher-rank-realisation",
+  {
+   "kind": "remark",
+   "num": "26.10",
+   "file": "c26.html",
+   "anchor": "remark-26-10",
+   "ord": 567,
+   "chap": "26",
+   "n": 10
+  }
+ ],
+ [
+  "rem:total-class-constrained",
+  {
+   "kind": "remark",
+   "num": "26.11",
+   "file": "c26.html",
+   "anchor": "remark-26-11",
+   "ord": 568,
+   "chap": "26",
+   "n": 11
+  }
+ ],
+ [
+  "ch:steenrodalg",
+  {
+   "kind": "chapter",
+   "num": "27",
+   "file": "c27.html",
+   "anchor": "top",
+   "ord": 570,
+   "chap": "27",
+   "n": 27
+  }
+ ],
+ [
+  "def:total-square",
+  {
+   "kind": "definition",
+   "num": "27.1",
+   "file": "c27.html",
+   "anchor": "definition-27-1",
+   "ord": 572,
+   "chap": "27",
+   "n": 1
+  }
+ ],
+ [
+  "exr:total-square-ring-map",
+  {
+   "kind": "exercise",
+   "num": "27.2",
+   "file": "c27.html",
+   "anchor": "exercise-27-2",
+   "ord": 573,
+   "chap": "27",
+   "n": 2
+  }
+ ],
+ [
+  "ex:sq-on-cpinfty",
+  {
+   "kind": "example",
+   "num": "27.3",
+   "file": "c27.html",
+   "anchor": "example-27-3",
+   "ord": 574,
+   "chap": "27",
+   "n": 3
+  }
+ ],
+ [
+  "rem:one-dimensional-case",
+  {
+   "kind": "remark",
+   "num": "27.4",
+   "file": "c27.html",
+   "anchor": "remark-27-4",
+   "ord": 575,
+   "chap": "27",
+   "n": 4
+  }
+ ],
+ [
+  "sec:admissible",
+  {
+   "kind": "section",
+   "num": "27.2",
+   "file": "c27.html",
+   "anchor": "sec-27-2",
+   "ord": 576,
+   "chap": "27",
+   "n": 2
+  }
+ ],
+ [
+  "def:admissible",
+  {
+   "kind": "definition",
+   "num": "27.5",
+   "file": "c27.html",
+   "anchor": "definition-27-5",
+   "ord": 577,
+   "chap": "27",
+   "n": 5
+  }
+ ],
+ [
+  "thm:admissible-basis",
+  {
+   "kind": "theorem",
+   "num": "27.6",
+   "file": "c27.html",
+   "anchor": "theorem-27-6",
+   "ord": 578,
+   "chap": "27",
+   "n": 6
+  }
+ ],
+ [
+  "exr:adem-sq2sq2",
+  {
+   "kind": "exercise",
+   "num": "27.7",
+   "file": "c27.html",
+   "anchor": "exercise-27-7",
+   "ord": 579,
+   "chap": "27",
+   "n": 7
+  }
+ ],
+ [
+  "rem:steenrod-hopf",
+  {
+   "kind": "remark",
+   "num": "27.8",
+   "file": "c27.html",
+   "anchor": "remark-27-8",
+   "ord": 580,
+   "chap": "27",
+   "n": 8
+  }
+ ],
+ [
+  "prop:decomposable",
+  {
+   "kind": "proposition",
+   "num": "27.9",
+   "file": "c27.html",
+   "anchor": "proposition-27-9",
+   "ord": 582,
+   "chap": "27",
+   "n": 9
+  }
+ ],
+ [
+  "thm:hopf-invariant-power-of-two",
+  {
+   "kind": "theorem",
+   "num": "27.10",
+   "file": "c27.html",
+   "anchor": "theorem-27-10",
+   "ord": 583,
+   "chap": "27",
+   "n": 10
+  }
+ ],
+ [
+  "rem:adams-boundary",
+  {
+   "kind": "remark",
+   "num": "27.11",
+   "file": "c27.html",
+   "anchor": "remark-27-11",
+   "ord": 584,
+   "chap": "27",
+   "n": 11
+  }
+ ],
+ [
+  "ch:spectra",
+  {
+   "kind": "chapter",
+   "num": "28",
+   "file": "c28.html",
+   "anchor": "top",
+   "ord": 586,
+   "chap": "28",
+   "n": 28
+  }
+ ],
+ [
+  "def:spectrum",
+  {
+   "kind": "definition",
+   "num": "28.1",
+   "file": "c28.html",
+   "anchor": "definition-28-1",
+   "ord": 588,
+   "chap": "28",
+   "n": 1
+  }
+ ],
+ [
+  "ex:sphere-spectrum",
+  {
+   "kind": "example",
+   "num": "28.2",
+   "file": "c28.html",
+   "anchor": "example-28-2",
+   "ord": 589,
+   "chap": "28",
+   "n": 2
+  }
+ ],
+ [
+  "def:symmetric-spectrum",
+  {
+   "kind": "definition",
+   "num": "28.3",
+   "file": "c28.html",
+   "anchor": "definition-28-3",
+   "ord": 590,
+   "chap": "28",
+   "n": 3
+  }
+ ],
+ [
+  "ex:sphere-symmetric",
+  {
+   "kind": "example",
+   "num": "28.4",
+   "file": "c28.html",
+   "anchor": "example-28-4",
+   "ord": 591,
+   "chap": "28",
+   "n": 4
+  }
+ ],
+ [
+  "warn:actions-matter",
+  {
+   "kind": "warning",
+   "num": "28.5",
+   "file": "c28.html",
+   "anchor": "warning-28-5",
+   "ord": 592,
+   "chap": "28",
+   "n": 5
+  }
+ ],
+ [
+  "exr:cofinally-zero",
+  {
+   "kind": "exercise",
+   "num": "28.6",
+   "file": "c28.html",
+   "anchor": "exercise-28-6",
+   "ord": 593,
+   "chap": "28",
+   "n": 6
+  }
+ ],
+ [
+  "exr:colim-not-product",
+  {
+   "kind": "exercise",
+   "num": "28.7",
+   "file": "c28.html",
+   "anchor": "exercise-28-7",
+   "ord": 594,
+   "chap": "28",
+   "n": 7
+  }
+ ],
+ [
+  "lem:permutation-degree",
+  {
+   "kind": "lemma",
+   "num": "28.8",
+   "file": "c28.html",
+   "anchor": "lemma-28-8",
+   "ord": 596,
+   "chap": "28",
+   "n": 8
+  }
+ ],
+ [
+  "rem:koszul-origin",
+  {
+   "kind": "remark",
+   "num": "28.9",
+   "file": "c28.html",
+   "anchor": "remark-28-9",
+   "ord": 597,
+   "chap": "28",
+   "n": 9
+  }
+ ],
+ [
+  "def:moore-spectrum",
+  {
+   "kind": "definition",
+   "num": "28.10",
+   "file": "c28.html",
+   "anchor": "definition-28-10",
+   "ord": 599,
+   "chap": "28",
+   "n": 10
+  }
+ ],
+ [
+  "exr:moore-spectrum-cohomology",
+  {
+   "kind": "exercise",
+   "num": "28.11",
+   "file": "c28.html",
+   "anchor": "exercise-28-11",
+   "ord": 600,
+   "chap": "28",
+   "n": 11
+  }
+ ],
+ [
+  "exr:wedge-a-module",
+  {
+   "kind": "exercise",
+   "num": "28.12",
+   "file": "c28.html",
+   "anchor": "exercise-28-12",
+   "ord": 601,
+   "chap": "28",
+   "n": 12
+  }
+ ],
+ [
+  "rem:moore-ring-programme",
+  {
+   "kind": "remark",
+   "num": "28.13",
+   "file": "c28.html",
+   "anchor": "remark-28-13",
+   "ord": 602,
+   "chap": "28",
+   "n": 13
+  }
+ ],
+ [
+  "ch:quasitech",
+  {
+   "kind": "chapter",
+   "num": "29",
+   "file": "c29.html",
+   "anchor": "top",
+   "ord": 604,
+   "chap": "29",
+   "n": 29
+  }
+ ],
+ [
+  "def:trivial-fibration",
+  {
+   "kind": "definition",
+   "num": "29.1",
+   "file": "c29.html",
+   "anchor": "definition-29-1",
+   "ord": 606,
+   "chap": "29",
+   "n": 1
+  }
+ ],
+ [
+  "exr:lift-against-monos",
+  {
+   "kind": "exercise",
+   "num": "29.2",
+   "file": "c29.html",
+   "anchor": "exercise-29-2",
+   "ord": 607,
+   "chap": "29",
+   "n": 2
+  }
+ ],
+ [
+  "rem:strong-lifting-use",
+  {
+   "kind": "remark",
+   "num": "29.3",
+   "file": "c29.html",
+   "anchor": "remark-29-3",
+   "ord": 608,
+   "chap": "29",
+   "n": 3
+  }
+ ],
+ [
+  "prop:hom-cube",
+  {
+   "kind": "proposition",
+   "num": "29.4",
+   "file": "c29.html",
+   "anchor": "proposition-29-4",
+   "ord": 610,
+   "chap": "29",
+   "n": 4
+  }
+ ],
+ [
+  "ex:hom-cube-small",
+  {
+   "kind": "example",
+   "num": "29.5",
+   "file": "c29.html",
+   "anchor": "example-29-5",
+   "ord": 611,
+   "chap": "29",
+   "n": 5
+  }
+ ],
+ [
+  "warn:not-discrete",
+  {
+   "kind": "warning",
+   "num": "29.6",
+   "file": "c29.html",
+   "anchor": "warning-29-6",
+   "ord": 612,
+   "chap": "29",
+   "n": 6
+  }
+ ],
+ [
+  "prop:rigidify-nerve",
+  {
+   "kind": "proposition",
+   "num": "29.7",
+   "file": "c29.html",
+   "anchor": "proposition-29-7",
+   "ord": 613,
+   "chap": "29",
+   "n": 7
+  }
+ ],
+ [
+  "rem:rigidify-products",
+  {
+   "kind": "remark",
+   "num": "29.8",
+   "file": "c29.html",
+   "anchor": "remark-29-8",
+   "ord": 614,
+   "chap": "29",
+   "n": 8
+  }
+ ],
+ [
+  "def:homotopy-initial",
+  {
+   "kind": "definition",
+   "num": "29.9",
+   "file": "c29.html",
+   "anchor": "definition-29-9",
+   "ord": 616,
+   "chap": "29",
+   "n": 9
+  }
+ ],
+ [
+  "ex:bar-extra-degeneracy",
+  {
+   "kind": "example",
+   "num": "29.10",
+   "file": "c29.html",
+   "anchor": "example-29-10",
+   "ord": 617,
+   "chap": "29",
+   "n": 10
+  }
+ ],
+ [
+  "exr:extra-degeneracy-chain",
+  {
+   "kind": "exercise",
+   "num": "29.11",
+   "file": "c29.html",
+   "anchor": "exercise-29-11",
+   "ord": 618,
+   "chap": "29",
+   "n": 11
+  }
+ ],
+ [
+  "rem:cofinality-programme",
+  {
+   "kind": "remark",
+   "num": "29.12",
+   "file": "c29.html",
+   "anchor": "remark-29-12",
+   "ord": 619,
+   "chap": "29",
+   "n": 12
+  }
+ ],
+ [
+  "ch:koszul",
+  {
+   "kind": "chapter",
+   "num": "30",
+   "file": "c30.html",
+   "anchor": "top",
+   "ord": 621,
+   "chap": "30",
+   "n": 30
+  }
+ ],
+ [
+  "def:s-module",
+  {
+   "kind": "definition",
+   "num": "30.1",
+   "file": "c30.html",
+   "anchor": "definition-30-1",
+   "ord": 623,
+   "chap": "30",
+   "n": 1
+  }
+ ],
+ [
+  "ex:schur-dictionary",
+  {
+   "kind": "example",
+   "num": "30.2",
+   "file": "c30.html",
+   "anchor": "example-30-2",
+   "ord": 624,
+   "chap": "30",
+   "n": 2
+  }
+ ],
+ [
+  "def:composition-product",
+  {
+   "kind": "definition",
+   "num": "30.3",
+   "file": "c30.html",
+   "anchor": "definition-30-3",
+   "ord": 625,
+   "chap": "30",
+   "n": 3
+  }
+ ],
+ [
+  "rem:plethysm-programme",
+  {
+   "kind": "remark",
+   "num": "30.4",
+   "file": "c30.html",
+   "anchor": "remark-30-4",
+   "ord": 626,
+   "chap": "30",
+   "n": 4
+  }
+ ],
+ [
+  "def:koszul-dual",
+  {
+   "kind": "definition",
+   "num": "30.5",
+   "file": "c30.html",
+   "anchor": "definition-30-5",
+   "ord": 628,
+   "chap": "30",
+   "n": 5
+  }
+ ],
+ [
+  "prop:weight-grading",
+  {
+   "kind": "proposition",
+   "num": "30.6",
+   "file": "c30.html",
+   "anchor": "proposition-30-6",
+   "ord": 629,
+   "chap": "30",
+   "n": 6
+  }
+ ],
+ [
+  "ex:ainfty-degrees",
+  {
+   "kind": "example",
+   "num": "30.7",
+   "file": "c30.html",
+   "anchor": "example-30-7",
+   "ord": 630,
+   "chap": "30",
+   "n": 7
+  }
+ ],
+ [
+  "exr:ainfty-low-degrees",
+  {
+   "kind": "exercise",
+   "num": "30.8",
+   "file": "c30.html",
+   "anchor": "exercise-30-8",
+   "ord": 631,
+   "chap": "30",
+   "n": 8
+  }
+ ],
+ [
+  "rem:degree-count-programme",
+  {
+   "kind": "remark",
+   "num": "30.9",
+   "file": "c30.html",
+   "anchor": "remark-30-9",
+   "ord": 632,
+   "chap": "30",
+   "n": 9
+  }
+ ],
+ [
+  "sec:mc",
+  {
+   "kind": "section",
+   "num": "30.3",
+   "file": "c30.html",
+   "anchor": "sec-30-3",
+   "ord": 633,
+   "chap": "30",
+   "n": 3
+  }
+ ],
+ [
+  "def:convolution",
+  {
+   "kind": "definition",
+   "num": "30.10",
+   "file": "c30.html",
+   "anchor": "definition-30-10",
+   "ord": 634,
+   "chap": "30",
+   "n": 10
+  }
+ ],
+ [
+  "exr:mc-dg-lie",
+  {
+   "kind": "exercise",
+   "num": "30.11",
+   "file": "c30.html",
+   "anchor": "exercise-30-11",
+   "ord": 635,
+   "chap": "30",
+   "n": 11
+  }
+ ],
+ [
+  "rem:mc-operadic-programme",
+  {
+   "kind": "remark",
+   "num": "30.12",
+   "file": "c30.html",
+   "anchor": "remark-30-12",
+   "ord": 636,
+   "chap": "30",
+   "n": 12
+  }
+ ],
+ [
+  "rem:koszul-forward",
+  {
+   "kind": "remark",
+   "num": "30.13",
+   "file": "c30.html",
+   "anchor": "remark-30-13",
+   "ord": 637,
+   "chap": "30",
+   "n": 13
+  }
+ ],
+ [
+  "ch:liemodels",
+  {
+   "kind": "chapter",
+   "num": "31",
+   "file": "c31.html",
+   "anchor": "top",
+   "ord": 639,
+   "chap": "31",
+   "n": 31
+  }
+ ],
+ [
+  "thm:quillen-model",
+  {
+   "kind": "theorem",
+   "num": "31.1",
+   "file": "c31.html",
+   "anchor": "theorem-31-1",
+   "ord": 641,
+   "chap": "31",
+   "n": 1
+  }
+ ],
+ [
+  "exr:u-hopf",
+  {
+   "kind": "exercise",
+   "num": "31.2",
+   "file": "c31.html",
+   "anchor": "exercise-31-2",
+   "ord": 642,
+   "chap": "31",
+   "n": 2
+  }
+ ],
+ [
+  "rem:u-programme",
+  {
+   "kind": "remark",
+   "num": "31.3",
+   "file": "c31.html",
+   "anchor": "remark-31-3",
+   "ord": 643,
+   "chap": "31",
+   "n": 3
+  }
+ ],
+ [
+  "def:rational-hurewicz",
+  {
+   "kind": "definition",
+   "num": "31.4",
+   "file": "c31.html",
+   "anchor": "definition-31-4",
+   "ord": 645,
+   "chap": "31",
+   "n": 4
+  }
+ ],
+ [
+  "ex:hurewicz-s2",
+  {
+   "kind": "example",
+   "num": "31.5",
+   "file": "c31.html",
+   "anchor": "example-31-5",
+   "ord": 646,
+   "chap": "31",
+   "n": 5
+  }
+ ],
+ [
+  "rem:hurewicz-programme",
+  {
+   "kind": "remark",
+   "num": "31.6",
+   "file": "c31.html",
+   "anchor": "remark-31-6",
+   "ord": 647,
+   "chap": "31",
+   "n": 6
+  }
+ ],
+ [
+  "thm:htt",
+  {
+   "kind": "theorem",
+   "num": "31.7",
+   "file": "c31.html",
+   "anchor": "theorem-31-7",
+   "ord": 649,
+   "chap": "31",
+   "n": 7
+  }
+ ],
+ [
+  "def:massey",
+  {
+   "kind": "definition",
+   "num": "31.8",
+   "file": "c31.html",
+   "anchor": "definition-31-8",
+   "ord": 650,
+   "chap": "31",
+   "n": 8
+  }
+ ],
+ [
+  "exr:massey-indeterminacy",
+  {
+   "kind": "exercise",
+   "num": "31.9",
+   "file": "c31.html",
+   "anchor": "exercise-31-9",
+   "ord": 651,
+   "chap": "31",
+   "n": 9
+  }
+ ],
+ [
+  "ex:borromean",
+  {
+   "kind": "example",
+   "num": "31.10",
+   "file": "c31.html",
+   "anchor": "example-31-10",
+   "ord": 652,
+   "chap": "31",
+   "n": 10
+  }
+ ],
+ [
+  "rem:massey-programme",
+  {
+   "kind": "remark",
+   "num": "31.11",
+   "file": "c31.html",
+   "anchor": "remark-31-11",
+   "ord": 653,
+   "chap": "31",
+   "n": 11
+  }
+ ],
+ [
+  "rem:closing",
+  {
+   "kind": "remark",
+   "num": "31.12",
+   "file": "c31.html",
+   "anchor": "remark-31-12",
+   "ord": 655,
+   "chap": "31",
+   "n": 12
+  }
+ ],
+ [
+  "ch:references",
+  {
+   "kind": "chapter",
+   "num": null,
+   "file": "references.html",
+   "anchor": "top",
+   "ord": 657,
+   "chap": null,
+   "n": null
+  }
+ ],
+ [
+  "sec:originality",
+  {
+   "kind": "section",
+   "num": null,
+   "file": "references.html",
+   "anchor": "sec-sources-of-inspiration-and-originality",
+   "ord": 665,
+   "chap": null,
+   "n": null
+  }
+ ]
+]
